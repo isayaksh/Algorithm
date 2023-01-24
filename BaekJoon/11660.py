@@ -22,6 +22,8 @@ for y in range(N):
 # 그래프 → 누적합 그래프
 graph = acSum(N, graph)
 
+for g in graph: print(g)
+
 for _ in range(M):
     y1, x1, y2, x2 = map(int,stdin.readline().split())
     result = graph[y2][x2] - graph[y2][x1-1] - graph[y1-1][x2] + graph[y1-1][x1-1]

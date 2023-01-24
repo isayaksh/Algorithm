@@ -22,7 +22,7 @@ def solution(l, x1, y1, x2, y2):
             if graph[ny][nx] > graph[y][x] + 1:
                 graph[ny][nx] = graph[y][x] + 1
                 queue.append((nx, ny))
-
+                
     return graph[y2][x2]
 
 T = int(stdin.readline())
