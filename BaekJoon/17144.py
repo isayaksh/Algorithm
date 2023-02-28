@@ -54,7 +54,7 @@ def solution(R, C, T, graph):
         spreadFineDust()
         airPurifierWorking()
 
-    return sum(map(sum,graph)) +2
+    return sum(map(sum,graph)) + 2
 
 R, C, T = map(int,stdin.readline().split())
 graph = [deque(map(int,stdin.readline().split())) for _ in range(R)]
