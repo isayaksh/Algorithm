@@ -18,7 +18,7 @@ def solution(N, nodes, deleteNode):
     # 최상위 부모 없는 경우
     if not tree[-1]:
         return 0
-
+    
     stack = [-1]
     while stack:
         node = stack.pop()
