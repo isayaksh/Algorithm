@@ -1,8 +1,8 @@
 # 알고리즘 공부
 > 알고리즘 학습을 위한 Repository
 ## 🧷 [Baekjoon Online Judge](https://www.acmicpc.net/)
-|문제 번호|tag|태그|레벨|문제|코드|
-|:-:|:-:|:-:|:-:|
+|번호|tag|태그|레벨|문제|코드|
+|:-:|:-:|:-:|:-:|:-:|:-:|
 |1003|dynamic programming|다이나믹 프로그래밍|Silver III|[피보나치 함수](https://www.acmicpc.net/problem/1003)|[1003.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1003.py)|
 |1005|topological sorting|위상 정렬|Gold III|[ACM Craft](https://www.acmicpc.net/problem/1005)|[1005.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1005.py)|
 |1010|mathematics|수학|Silver V|[다리 놓기](https://www.acmicpc.net/problem/1010)|[1010.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1010.py)|
