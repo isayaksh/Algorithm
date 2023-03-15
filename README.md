@@ -8,6 +8,7 @@
 |1010|mathematics|수학|Silver V|[다리 놓기](https://www.acmicpc.net/problem/1010)|[1010.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1010.py)|
 |1012|depth-first search|깊이 우선 탐색|Silver II|[유기농 배추](https://www.acmicpc.net/problem/1012)|[1012.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1012.py)|
 |1018|bruteforcing|브루트포스 알고리즘|Silver IV|[체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)|[1018.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1018.py)|
+|1038|bruteforcing|브루트포스 알고리즘|Gold V|[감소하는 수](https://www.acmicpc.net/problem/1038)|[1038.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1038.py)|
 |1043|graph traversal|그래프 탐색|Gold IV|[거짓말](https://www.acmicpc.net/problem/1043)|[1043.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1043.py)|
 |1049|mathematics|수학|Silver IV|[기타줄](https://www.acmicpc.net/problem/1049)|[1049.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1049.py)|
 |1052|mathematics|수학|Silver I|[물병](https://www.acmicpc.net/problem/1052)|[1052.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1052.py)|
