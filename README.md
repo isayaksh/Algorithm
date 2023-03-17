@@ -144,6 +144,7 @@
 |11497|sorting|정렬|Silver I|[통나무 건너뛰기](https://www.acmicpc.net/problem/11497)|[11497.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/11497.py)|
 |11508|sorting|정렬|Silver IV|[2+1 세일](https://www.acmicpc.net/problem/11508)|[11508.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/11508.py)|
 |11509|greedy|그리디 알고리즘|Gold V|[풍선 맞추기](https://www.acmicpc.net/problem/11509)|[11509.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/11509.py)|
+|11559|simulation|시뮬레이션|Gold IV|[Puyo Puyo](https://www.acmicpc.net/problem/11559)|[11559.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/11559.py)|
 |11652|sorting|정렬|Silver IV|[카드](https://www.acmicpc.net/problem/11652)|[11652.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/11652.py)|
 |11660|prefix sum|누적 합|Silver I|[구간 합 구하기 5](https://www.acmicpc.net/problem/11660)|[11660.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/11660.py)|
 |11724|depth-first search|깊이 우선 탐색|Silver II|[연결 요소의 개수](https://www.acmicpc.net/problem/11724)|[11724.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/11724.py)|
