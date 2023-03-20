@@ -62,6 +62,7 @@
 |1939|graph traversal|그래프 탐색|Gold III|[중량제한](https://www.acmicpc.net/problem/1939)|[1939.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1939.py)|
 |1963|sieve of eratosthenes|에라토스테네스의 체|Gold IV|[소수 경로](https://www.acmicpc.net/problem/1963)|[1963.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1963.py)|
 |1967|tree|트리|Gold IV|[트리의 지름](https://www.acmicpc.net/problem/1967)|[1967.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1967.py)|
+|1976|graph traversal|그래프 탐색|Gold IV|[여행 가자](https://www.acmicpc.net/problem/1976)|[1976.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1976.py)|
 |1987|graph traversal|그래프 탐색|Gold IV|[알파벳](https://www.acmicpc.net/problem/1987)|[1987.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1987.py)|
 |1991|tree|트리|Silver I|[트리 순회](https://www.acmicpc.net/problem/1991)|[1991.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1991.py)|
 |1992|recursion|재귀|Silver I|[쿼드트리](https://www.acmicpc.net/problem/1992)|[1992.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1992.py)|
