@@ -52,6 +52,7 @@
 |1758|sorting|정렬|Silver IV|[알바생 강호](https://www.acmicpc.net/problem/1758)|[1758.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1758.py)|
 |1759|mathematics|수학|Gold V|[암호 만들기](https://www.acmicpc.net/problem/1759)|[1759.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1759.py)|
 |1764|string|문자열|Silver IV|[듣보잡](https://www.acmicpc.net/problem/1764)|[1764.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1764.py)|
+|1766|topological sorting|위상 정렬|Gold II|[문제집](https://www.acmicpc.net/problem/1766)|[1766.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1766.py)|
 |1780|recursion|재귀|Silver II|[종이의 개수](https://www.acmicpc.net/problem/1780)|[1780.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1780.py)|
 |1781|priority queue|우선순위 큐|Gold II|[컵라면](https://www.acmicpc.net/problem/1781)|[1781.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1781.py)|
 |1783|implementation|구현|Silver III|[병든 나이트](https://www.acmicpc.net/problem/1783)|[1783.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1783.py)|
