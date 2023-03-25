@@ -37,6 +37,7 @@
 |1448|sorting|정렬|Silver III|[삼각형 만들기](https://www.acmicpc.net/problem/1448)|[1448.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1448.py)|
 |1449|sorting|정렬|Silver III|[수리공 항승](https://www.acmicpc.net/problem/1449)|[1449.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1449.py)|
 |1461|sorting|정렬|Gold V|[도서관](https://www.acmicpc.net/problem/1461)|[1461.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1461.py)|
+|1475|implementation|구현|Silver V|[방 번호](https://www.acmicpc.net/problem/1475)|[1475.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1475.py)|
 |1504|graph theory|그래프 이론|Gold IV|[특정한 최단 경로](https://www.acmicpc.net/problem/1504)|[1504.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1504.py)|
 |1516|topological sorting|위상 정렬|Gold III|[게임 개발](https://www.acmicpc.net/problem/1516)|[1516.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1516.py)|
 |1543|string|문자열|Silver IV|[문서 검색](https://www.acmicpc.net/problem/1543)|[1543.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1543.py)|
