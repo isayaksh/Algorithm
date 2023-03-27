@@ -14,7 +14,6 @@ def solution(N, formula):
             dfs(idx+2, eval(str(value) + formula[idx+1:idx+3]))
         if idx + 4 < N:
             dfs(idx+4, eval(str(value) + formula[idx+1] + str(eval(formula[idx+2:idx+5]))))
-    
     dfs(0, int(formula[0]))
 
 N = int(stdin.readline())
