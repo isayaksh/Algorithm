@@ -73,6 +73,7 @@
 |2096|sliding window|슬라이딩 윈도우|Gold V|[내려가기](https://www.acmicpc.net/problem/2096)|[2096.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2096.py)|
 |2110|parametric search|매개 변수 탐색|Gold IV|[공유기 설치](https://www.acmicpc.net/problem/2110)|[2110.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2110.py)|
 |2138|greedy|그리디 알고리즘|Gold V|[전구와 스위치](https://www.acmicpc.net/problem/2138)|[2138.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2138.py)|
+|2143|prefix sum|누적 합|Gold III|[두 배열의 합](https://www.acmicpc.net/problem/2143)|[2143.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2143.py)|
 |2178|graph traversal|그래프 탐색|Silver I|[미로 탐색](https://www.acmicpc.net/problem/2178)|[2178.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2178.py)|
 |2212|sorting|정렬|Gold V|[센서](https://www.acmicpc.net/problem/2212)|[2212.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2212.py)|
 |2231|bruteforcing|브루트포스 알고리즘|Bronze II|[분해합](https://www.acmicpc.net/problem/2231)|[2231.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2231.py)|
@@ -211,7 +212,7 @@
 |17406|implementation|구현|Gold IV|[배열 돌리기 4](https://www.acmicpc.net/problem/17406)|[17406.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17406.py)|
 |17471|mathematics|수학|Gold IV|[게리맨더링](https://www.acmicpc.net/problem/17471)|[17471.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17471.py)|
 |17521|greedy|그리디 알고리즘|Silver IV|[Byte Coin](https://www.acmicpc.net/problem/17521)|[17521.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17521.py)|
-|17822|simulation|시뮬레이션|Gold III|[원판 돌리기](https://www.acmicpc.net/problem/17822)|[17822.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17822.py)|
+|17822|simulation|시뮬레이션|Gold II|[원판 돌리기](https://www.acmicpc.net/problem/17822)|[17822.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17822.py)|
 |17828|string|문자열|Gold V|[문자열 화폐](https://www.acmicpc.net/problem/17828)|[17828.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17828.py)|
 |18258|queue|큐|Silver IV|[큐 2](https://www.acmicpc.net/problem/18258)|[18258.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/18258.py)|
 |18310|sorting|정렬|Silver III|[안테나](https://www.acmicpc.net/problem/18310)|[18310.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/18310.py)|
