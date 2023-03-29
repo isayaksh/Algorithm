@@ -122,6 +122,7 @@
 |5545|sorting|정렬|Silver III|[최고의 피자](https://www.acmicpc.net/problem/5545)|[5545.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/5545.py)|
 |5582|string|문자열|Gold V|[공통 부분 문자열](https://www.acmicpc.net/problem/5582)|[5582.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/5582.py)|
 |5635|string|문자열|Silver V|[생일](https://www.acmicpc.net/problem/5635)|[5635.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/5635.py)|
+|6603|recursion|재귀|Silver II|[로또](https://www.acmicpc.net/problem/6603)|[6603.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/6603.py)|
 |7562|graph traversal|그래프 탐색|Silver I|[나이트의 이동](https://www.acmicpc.net/problem/7562)|[7562.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/7562.py)|
 |7785|set / map by hashing|해시를 사용한 집합과 맵|Silver V|[회사에 있는 사람](https://www.acmicpc.net/problem/7785)|[7785.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/7785.py)|
 |9009|mathematics|수학|Silver I|[피보나치](https://www.acmicpc.net/problem/9009)|[9009.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9009.py)|
@@ -221,5 +222,5 @@
 |19939|mathematics|수학|Silver IV|[박 터뜨리기](https://www.acmicpc.net/problem/19939)|[19939.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/19939.py)|
 |19941|greedy|그리디 알고리즘|Silver III|[햄버거 분배](https://www.acmicpc.net/problem/19941)|[19941.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/19941.py)|
 |20055|simulation|시뮬레이션|Gold V|[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|[20055.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/20055.py)|
-|20915|mathematics|수학|Silver II|[숫자 카드 놀이](https://www.acmicpc.net/problem/20915)|[20915.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/20915.py)|
+|20915|greedy|그리디 알고리즘|Silver II|[숫자 카드 놀이](https://www.acmicpc.net/problem/20915)|[20915.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/20915.py)|
 |21758|prefix sum|누적 합|Gold V|[꿀 따기](https://www.acmicpc.net/problem/21758)|[21758.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/21758.py)|
