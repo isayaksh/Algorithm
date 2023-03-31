@@ -27,6 +27,7 @@
 |1197|graph theory|그래프 이론|Gold IV|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|[1197.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1197.py)|
 |1213|string|문자열|Silver III|[팰린드롬 만들기](https://www.acmicpc.net/problem/1213)|[1213.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1213.py)|
 |1238|graph theory|그래프 이론|Gold III|[파티](https://www.acmicpc.net/problem/1238)|[1238.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1238.py)|
+|1251|string|문자열|Silver V|[단어 나누기](https://www.acmicpc.net/problem/1251)|[1251.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1251.py)|
 |1260|depth-first search|깊이 우선 탐색|Silver II|[DFS와 BFS](https://www.acmicpc.net/problem/1260)|[1260.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1260.py)|
 |1261|graph traversal|그래프 탐색|Gold IV|[알고스팟](https://www.acmicpc.net/problem/1261)|[1261.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1261.py)|
 |1269|set / map by trees|트리를 사용한 집합과 맵|Silver IV|[대칭 차집합](https://www.acmicpc.net/problem/1269)|[1269.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1269.py)|
