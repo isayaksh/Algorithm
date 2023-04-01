@@ -23,6 +23,7 @@
 |1149|dynamic programming|다이나믹 프로그래밍|Silver I|[RGB거리](https://www.acmicpc.net/problem/1149)|[1149.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1149.py)|
 |1158|queue|큐|Silver IV|[요세푸스 문제](https://www.acmicpc.net/problem/1158)|[1158.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1158.py)|
 |1167|tree|트리|Gold II|[트리의 지름](https://www.acmicpc.net/problem/1167)|[1167.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1167.py)|
+|1181|string|문자열|Silver V|[단어 정렬](https://www.acmicpc.net/problem/1181)|[1181.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1181.py)|
 |1182|bruteforcing|브루트포스 알고리즘|Silver II|[부분수열의 합](https://www.acmicpc.net/problem/1182)|[1182.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1182.py)|
 |1197|graph theory|그래프 이론|Gold IV|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|[1197.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1197.py)|
 |1213|string|문자열|Silver III|[팰린드롬 만들기](https://www.acmicpc.net/problem/1213)|[1213.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1213.py)|
