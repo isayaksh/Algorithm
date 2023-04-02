@@ -44,6 +44,7 @@
 |1516|topological sorting|위상 정렬|Gold III|[게임 개발](https://www.acmicpc.net/problem/1516)|[1516.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1516.py)|
 |1543|string|문자열|Silver IV|[문서 검색](https://www.acmicpc.net/problem/1543)|[1543.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1543.py)|
 |1620|set / map by hashing|해시를 사용한 집합과 맵|Silver IV|[나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)|[1620.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1620.py)|
+|1644|two-pointer|두 포인터|Gold III|[소수의 연속합](https://www.acmicpc.net/problem/1644)|[1644.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1644.py)|
 |1654|parametric search|매개 변수 탐색|Silver II|[랜선 자르기](https://www.acmicpc.net/problem/1654)|[1654.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1654.py)|
 |1655|priority queue|우선순위 큐|Gold II|[가운데를 말해요](https://www.acmicpc.net/problem/1655)|[1655.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1655.py)|
 |1697|graph traversal|그래프 탐색|Silver I|[숨바꼭질](https://www.acmicpc.net/problem/1697)|[1697.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1697.py)|
