@@ -108,6 +108,7 @@
 |2841|stack|스택|Silver I|[외계인의 기타 연주](https://www.acmicpc.net/problem/2841)|[2841.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2841.py)|
 |2847|greedy|그리디 알고리즘|Silver IV|[게임을 만든 동준이](https://www.acmicpc.net/problem/2847)|[2847.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2847.py)|
 |2872|greedy|그리디 알고리즘|Silver II|[우리집엔 도서관이 있어](https://www.acmicpc.net/problem/2872)|[2872.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2872.py)|
+|2941|string|문자열|Silver V|[크로아티아 알파벳](https://www.acmicpc.net/problem/2941)|[2941.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2941.py)|
 |3055|graph traversal|그래프 탐색|Gold IV|[탈출](https://www.acmicpc.net/problem/3055)|[3055.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/3055.py)|
 |3109|greedy|그리디 알고리즘|Gold II|[빵집](https://www.acmicpc.net/problem/3109)|[3109.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/3109.py)|
 |3135|mathematics|수학|Silver V|[라디오](https://www.acmicpc.net/problem/3135)|[3135.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/3135.py)|
