@@ -34,6 +34,7 @@
 |1269|set / map by trees|트리를 사용한 집합과 맵|Silver IV|[대칭 차집합](https://www.acmicpc.net/problem/1269)|[1269.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1269.py)|
 |1300|parametric search|매개 변수 탐색|Gold II|[K번째 수](https://www.acmicpc.net/problem/1300)|[1300.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1300.py)|
 |1302|string|문자열|Silver IV|[베스트셀러](https://www.acmicpc.net/problem/1302)|[1302.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1302.py)|
+|1316|string|문자열|Silver V|[그룹 단어 체커](https://www.acmicpc.net/problem/1316)|[1316.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1316.py)|
 |1374|sorting|정렬|Gold V|[강의실](https://www.acmicpc.net/problem/1374)|[1374.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1374.py)|
 |1417|simulation|시뮬레이션|Silver V|[국회의원 선거](https://www.acmicpc.net/problem/1417)|[1417.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1417.py)|
 |1448|sorting|정렬|Silver III|[삼각형 만들기](https://www.acmicpc.net/problem/1448)|[1448.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1448.py)|
