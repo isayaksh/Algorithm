@@ -92,6 +92,7 @@
 |2493|stack|스택|Gold V|[탑](https://www.acmicpc.net/problem/2493)|[2493.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2493.py)|
 |2504|stack|스택|Silver I|[괄호의 값](https://www.acmicpc.net/problem/2504)|[2504.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2504.py)|
 |2548|sorting|정렬|Silver III|[대표 자연수](https://www.acmicpc.net/problem/2548)|[2548.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2548.py)|
+|2559|two-pointer|두 포인터|Silver III|[수열](https://www.acmicpc.net/problem/2559)|[2559.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2559.py)|
 |2565|dynamic programming|다이나믹 프로그래밍|Gold V|[전깃줄](https://www.acmicpc.net/problem/2565)|[2565.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2565.py)|
 |2580|backtracking|백트래킹|Gold IV|[스도쿠](https://www.acmicpc.net/problem/2580)|[2580.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2580.py)|
 |2631|dynamic programming|다이나믹 프로그래밍|Gold IV|[줄세우기](https://www.acmicpc.net/problem/2631)|[2631.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2631.py)|
