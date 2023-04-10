@@ -134,6 +134,7 @@
 |9009|mathematics|수학|Silver I|[피보나치](https://www.acmicpc.net/problem/9009)|[9009.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9009.py)|
 |9019|graph traversal|그래프 탐색|Gold IV|[DSLR](https://www.acmicpc.net/problem/9019)|[9019.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9019.py)|
 |9084|knapsack|배낭 문제|Gold V|[동전](https://www.acmicpc.net/problem/9084)|[9084.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9084.py)|
+|9205|graph traversal|그래프 탐색|Gold V|[맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)|[9205.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9205.py)|
 |9251|string|문자열|Gold V|[LCS](https://www.acmicpc.net/problem/9251)|[9251.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9251.py)|
 |9375|mathematics|수학|Silver III|[패션왕 신해빈](https://www.acmicpc.net/problem/9375)|[9375.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9375.py)|
 |9440|sorting|정렬|Silver III|[숫자 더하기](https://www.acmicpc.net/problem/9440)|[9440.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9440.py)|
