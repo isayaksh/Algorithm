@@ -227,6 +227,7 @@
 |18258|queue|큐|Silver IV|[큐 2](https://www.acmicpc.net/problem/18258)|[18258.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/18258.py)|
 |18310|sorting|정렬|Silver III|[안테나](https://www.acmicpc.net/problem/18310)|[18310.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/18310.py)|
 |18428|bruteforcing|브루트포스 알고리즘|Gold V|[감시 피하기](https://www.acmicpc.net/problem/18428)|[18428.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/18428.py)|
+|18870|sorting|정렬|Silver II|[좌표 압축](https://www.acmicpc.net/problem/18870)|[18870.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/18870.py)|
 |19539|mathematics|수학|Gold V|[사과나무](https://www.acmicpc.net/problem/19539)|[19539.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/19539.py)|
 |19598|sweeping|스위핑|Gold V|[최소 회의실 개수](https://www.acmicpc.net/problem/19598)|[19598.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/19598.py)|
 |19939|mathematics|수학|Silver IV|[박 터뜨리기](https://www.acmicpc.net/problem/19939)|[19939.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/19939.py)|
