@@ -233,6 +233,7 @@
 |19598|sweeping|스위핑|Gold V|[최소 회의실 개수](https://www.acmicpc.net/problem/19598)|[19598.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/19598.py)|
 |19939|mathematics|수학|Silver IV|[박 터뜨리기](https://www.acmicpc.net/problem/19939)|[19939.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/19939.py)|
 |19941|greedy|그리디 알고리즘|Silver III|[햄버거 분배](https://www.acmicpc.net/problem/19941)|[19941.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/19941.py)|
+|19942|bruteforcing|브루트포스 알고리즘|Gold V|[다이어트](https://www.acmicpc.net/problem/19942)|[19942.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/19942.py)|
 |20055|simulation|시뮬레이션|Gold V|[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|[20055.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/20055.py)|
 |20915|greedy|그리디 알고리즘|Silver II|[숫자 카드 놀이](https://www.acmicpc.net/problem/20915)|[20915.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/20915.py)|
 |21758|prefix sum|누적 합|Gold V|[꿀 따기](https://www.acmicpc.net/problem/21758)|[21758.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/21758.py)|
