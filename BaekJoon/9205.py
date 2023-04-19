@@ -1,23 +1,36 @@
-# BOJ 7490 0 만들기
-# https://www.acmicpc.net/problem/7490
+# BOJ 9205 맥주 마시면서 걸어가기
+# https://www.acmicpc.net/problem/9205
 
 from sys import stdin
+from collections import deque
 
-def solution(N):
-    def dfs(opr, i):
-        opr += str(i)
-        if i == N:
-            reCase = opr.replace(' ', '')
-            if 0 == eval(reCase):
-                print(opr)
-            return
-        dfs(opr+' ', i+1)
-        dfs(opr+'+', i+1)
-        dfs(opr+'-', i+1)
-    dfs('', 1)
+def solution(n, sx, sy, convenienceStore, ex, ey):
+    visited = [False] * n
+    queue = deque([(sx, sy)])
 
-T = int(stdin.readline())
-for _ in range(T):
-    N = int(stdin.readline())
-    solution(N)
-    print()
+    def checkDistance(sx, sy, ex, ey):
+        return abs(sx-ex) + abs(sy-ey) <= 1000
+
+    while queue:
+        x, y = queue.popleft()
+        if checkDistance(x, y, ex, ey):
+            return 'happy'
+        for i in range(n):
+            if not visited[i]:
+                nx, ny = convenienceStore[i]
+                if checkDistance(x, y, nx, ny):
+                    visited[i] = True
+                    queue.append((nx, ny))
+    return 'sad'
+
+t = int(stdin.readline())
+for _ in range(t):
+    answer = False
+    # input
+    n = int(stdin.readline())
+    sx, sy = map(int,stdin.readline().split())
+    convenienceStore = list(list(map(int,stdin.readline().split())) for _ in range(n))
+    ex, ey = map(int,stdin.readline().split())
+    # result
+    result = solution(n, sx, sy, convenienceStore, ex, ey)
+    print(result)
