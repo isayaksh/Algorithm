@@ -133,6 +133,7 @@
 |7785|set / map by hashing|해시를 사용한 집합과 맵|Silver V|[회사에 있는 사람](https://www.acmicpc.net/problem/7785)|[7785.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/7785.py)|
 |9009|mathematics|수학|Silver I|[피보나치](https://www.acmicpc.net/problem/9009)|[9009.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9009.py)|
 |9019|graph traversal|그래프 탐색|Gold IV|[DSLR](https://www.acmicpc.net/problem/9019)|[9019.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9019.py)|
+|9020|sieve of eratosthenes|에라토스테네스의 체|Silver II|[골드바흐의 추측](https://www.acmicpc.net/problem/9020)|[9020.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9020.py)|
 |9084|knapsack|배낭 문제|Gold V|[동전](https://www.acmicpc.net/problem/9084)|[9084.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9084.py)|
 |9205|graph traversal|그래프 탐색|Gold V|[맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)|[9205.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9205.py)|
 |9251|string|문자열|Gold V|[LCS](https://www.acmicpc.net/problem/9251)|[9251.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9251.py)|
