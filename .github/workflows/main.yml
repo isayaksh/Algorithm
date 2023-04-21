@@ -32,6 +32,8 @@ jobs:
       - name: Update Readme
         run: |
           python updateReadme.py
+          git config --global user.name 'isayaksh'
+          git config --global user.email 'isayaksh@gmail.com'
           git add /home/runner/work/Algorithm/Algorithm/README.md
           git commit -m "update README"
           git push
