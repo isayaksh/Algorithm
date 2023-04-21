@@ -39,11 +39,11 @@ def get_problem_info(problemId):
 
 
 def updateAll():
-    file_list = listdir("/Users/ksh/Documents/GitHub/Algorithm/BaekJoon");
+    file_list = listdir("/home/runner/work/Algorithm/Algorithm/BaekJoon");
     file_list = list(map(lambda x : x.replace('.py', ''), file_list))
     file_list.sort(key=lambda x : int(x))
 
-    f = open('/Users/ksh/Documents/GitHub/Algorithm/README.md', 'w', encoding='utf8')
+    f = open('/home/runner/work/Algorithm/Algorithm/README.md', 'w', encoding='utf8')
     f.write(README_HEADER)
     for problemId in file_list:
         f.write(get_problem_info(problemId))
