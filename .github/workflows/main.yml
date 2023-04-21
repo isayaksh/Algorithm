@@ -30,4 +30,8 @@ jobs:
         run: pwd
 
       - name: Update Readme
-        run: python updateReadme.py
+        run: |
+          python updateReadme.py
+          git add /home/runner/work/Algorithm/Algorithm/README.md
+          git commit -m "update README"
+          git push
