@@ -28,5 +28,6 @@ jobs:
 
       - name: Check Path
         run: pwd
-      # - name: Update Readme
-      #   run: python updateReadme.py
+
+      - name: Update Readme
+        run: python updateReadme.py
