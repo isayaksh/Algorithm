@@ -32,7 +32,7 @@ def get_problem_info(problemId):
                     tagKo = ob['name']
                 else:
                     tagEn = ob['name']
-        print(problemId, tagEn, tagKo, level, title)
+        # print(problemId, tagEn, tagKo, level, title)
         return createRow(problemId, tagEn, tagKo, level, title)
     except Exception as ex:
         print(f"[updateReadme.get_problem_info][ERROR] : {ex.with_traceback}")
