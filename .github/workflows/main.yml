@@ -28,10 +28,12 @@ jobs:
 
       - name: Check Path
         run: pwd
+        
+      - name: Run Update Readme Python Script
+        run: python updateReadme.py
 
-      - name: Update Readme
+      - name: Run Update README.md File
         run: |
-          python updateReadme.py
           git add .
           git diff
           git config --global user.name 'isayaksh'
