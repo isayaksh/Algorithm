@@ -32,21 +32,34 @@ def get_problem_info(problemId):
                     tagKo = ob['name']
                 else:
                     tagEn = ob['name']
-        # print(problemId, tagEn, tagKo, level, title)
+        print(problemId, tagEn, tagKo, level, title)
         return createRow(problemId, tagEn, tagKo, level, title)
     except Exception as ex:
-        print(f"[updateReadme.get_problem_info][ERROR] : {ex.with_traceback}")
+        print(f"[updateReadme.get_problem_info][ERROR] : [{problemId}] {ex.with_traceback}")
 
 
 def updateAll():
+
+    # remote
     file_list = listdir("/home/runner/work/Algorithm/Algorithm/BaekJoon");
+
+    # local
+    # file_list = listdir("/Users/ksh/Documents/GitHub/Algorithm/BaekJoon")
+
     file_list = list(map(lambda x : x.replace('.py', ''), file_list))
     file_list.sort(key=lambda x : int(x))
 
+    # remote
     f = open('/home/runner/work/Algorithm/Algorithm/README.md', 'w', encoding='utf8')
+
+    # local
+    # f = open('/Users/ksh/Documents/GitHub/Algorithm/README.md', 'w', encoding='utf8')
+
     f.write(README_HEADER)
     for problemId in file_list:
-        f.write(get_problem_info(problemId))
+        data = get_problem_info(problemId)
+        if data != None:
+            f.write(data)
     f.close()
 
 updateAll()

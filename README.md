@@ -149,6 +149,7 @@
 |10773|stack|스택|Silver IV|[제로](https://www.acmicpc.net/problem/10773)|[10773.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/10773.py)|
 |10814|sorting|정렬|Silver V|[나이순 정렬](https://www.acmicpc.net/problem/10814)|[10814.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/10814.py)|
 |10819|bruteforcing|브루트포스 알고리즘|Silver II|[차이를 최대로](https://www.acmicpc.net/problem/10819)|[10819.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/10819.py)|
+|10825|sorting|정렬|Silver IV|[국영수](https://www.acmicpc.net/problem/10825)|[10825.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/10825.py)|
 |10830|mathematics|수학|Gold IV|[행렬 제곱](https://www.acmicpc.net/problem/10830)|[10830.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/10830.py)|
 |10924|permutation cycle decomposition|순열 사이클 분할|Diamond V|[정렬하기 2](https://www.acmicpc.net/problem/10924)|[10924.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/10924.py)|
 |11048|dynamic programming|다이나믹 프로그래밍|Silver II|[이동하기](https://www.acmicpc.net/problem/11048)|[11048.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/11048.py)|
