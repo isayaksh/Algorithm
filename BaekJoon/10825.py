@@ -13,3 +13,4 @@ data = [stdin.readline().strip().split() for _ in range(N)]
 response = solution(N, data)
 for res in response:
     print(res)
+    
