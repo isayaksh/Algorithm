@@ -39,7 +39,6 @@ def get_problem_info(problemId):
 
 
 def updateAll():
-
     # remote
     file_list = listdir("/home/runner/work/Algorithm/Algorithm/BaekJoon");
 
