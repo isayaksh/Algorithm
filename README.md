@@ -61,6 +61,7 @@
 |1780|recursion|재귀|Silver II|[종이의 개수](https://www.acmicpc.net/problem/1780)|[1780.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1780.py)|
 |1781|priority queue|우선순위 큐|Gold II|[컵라면](https://www.acmicpc.net/problem/1781)|[1781.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1781.py)|
 |1783|implementation|구현|Silver III|[병든 나이트](https://www.acmicpc.net/problem/1783)|[1783.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1783.py)|
+|1806|two-pointer|두 포인터|Gold IV|[부분합](https://www.acmicpc.net/problem/1806)|[1806.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1806.py)|
 |1904|dynamic programming|다이나믹 프로그래밍|Silver III|[01타일](https://www.acmicpc.net/problem/1904)|[1904.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1904.py)|
 |1916|graph theory|그래프 이론|Gold V|[최소비용 구하기](https://www.acmicpc.net/problem/1916)|[1916.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1916.py)|
 |1922|minimum spanning tree|최소 스패닝 트리|Gold IV|[네트워크 연결](https://www.acmicpc.net/problem/1922)|[1922.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1922.py)|
