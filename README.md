@@ -99,6 +99,7 @@
 |2631|dynamic programming|다이나믹 프로그래밍|Gold IV|[줄세우기](https://www.acmicpc.net/problem/2631)|[2631.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2631.py)|
 |2636|simulation|시뮬레이션|Gold IV|[치즈](https://www.acmicpc.net/problem/2636)|[2636.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2636.py)|
 |2638|simulation|시뮬레이션|Gold III|[치즈](https://www.acmicpc.net/problem/2638)|[2638.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2638.py)|
+|2661|backtracking|백트래킹|Gold IV|[좋은수열](https://www.acmicpc.net/problem/2661)|[2661.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2661.py)|
 |2667|graph traversal|그래프 탐색|Silver I|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|[2667.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2667.py)|
 |2748|mathematics|수학|Bronze I|[피보나치 수 2](https://www.acmicpc.net/problem/2748)|[2748.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2748.py)|
 |2775|mathematics|수학|Bronze I|[부녀회장이 될테야](https://www.acmicpc.net/problem/2775)|[2775.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2775.py)|
