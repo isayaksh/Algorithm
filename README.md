@@ -121,6 +121,7 @@
 |3687|greedy|그리디 알고리즘|Gold II|[성냥개비](https://www.acmicpc.net/problem/3687)|[3687.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/3687.py)|
 |3986|stack|스택|Silver IV|[좋은 단어](https://www.acmicpc.net/problem/3986)|[3986.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/3986.py)|
 |4386|minimum spanning tree|최소 스패닝 트리|Gold III|[별자리 만들기](https://www.acmicpc.net/problem/4386)|[4386.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/4386.py)|
+|4485|graph theory|그래프 이론|Gold IV|[녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)|[4485.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/4485.py)|
 |4673|mathematics|수학|Silver V|[셀프 넘버](https://www.acmicpc.net/problem/4673)|[4673.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/4673.py)|
 |4889|string|문자열|Silver I|[안정적인 문자열](https://www.acmicpc.net/problem/4889)|[4889.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/4889.py)|
 |4949|string|문자열|Silver IV|[균형잡힌 세상](https://www.acmicpc.net/problem/4949)|[4949.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/4949.py)|
