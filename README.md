@@ -124,6 +124,7 @@
 |4485|graph theory|그래프 이론|Gold IV|[녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)|[4485.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/4485.py)|
 |4673|mathematics|수학|Silver V|[셀프 넘버](https://www.acmicpc.net/problem/4673)|[4673.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/4673.py)|
 |4889|string|문자열|Silver I|[안정적인 문자열](https://www.acmicpc.net/problem/4889)|[4889.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/4889.py)|
+|4948|sieve of eratosthenes|에라토스테네스의 체|Silver II|[베르트랑 공준](https://www.acmicpc.net/problem/4948)|[4948.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/4948.py)|
 |4949|string|문자열|Silver IV|[균형잡힌 세상](https://www.acmicpc.net/problem/4949)|[4949.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/4949.py)|
 |5002|implementation|구현|Silver II|[도어맨](https://www.acmicpc.net/problem/5002)|[5002.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/5002.py)|
 |5052|trie|트라이|Gold IV|[전화번호 목록](https://www.acmicpc.net/problem/5052)|[5052.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/5052.py)|
