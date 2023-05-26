@@ -91,6 +91,7 @@
 |2436|number theory|정수론|Gold V|[공약수](https://www.acmicpc.net/problem/2436)|[2436.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2436.py)|
 |2437|sorting|정렬|Gold II|[저울](https://www.acmicpc.net/problem/2437)|[2437.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2437.py)|
 |2467|two-pointer|두 포인터|Gold V|[용액](https://www.acmicpc.net/problem/2467)|[2467.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2467.py)|
+|2469|string|문자열|Gold V|[사다리 타기](https://www.acmicpc.net/problem/2469)|[2469.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2469.py)|
 |2493|stack|스택|Gold V|[탑](https://www.acmicpc.net/problem/2493)|[2493.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2493.py)|
 |2504|stack|스택|Silver I|[괄호의 값](https://www.acmicpc.net/problem/2504)|[2504.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2504.py)|
 |2548|sorting|정렬|Silver III|[대표 자연수](https://www.acmicpc.net/problem/2548)|[2548.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2548.py)|
