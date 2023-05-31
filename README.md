@@ -197,6 +197,7 @@
 |14235|priority queue|우선순위 큐|Silver III|[크리스마스 선물](https://www.acmicpc.net/problem/14235)|[14235.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/14235.py)|
 |14241|mathematics|수학|Silver III|[슬라임 합치기](https://www.acmicpc.net/problem/14241)|[14241.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/14241.py)|
 |14247|sorting|정렬|Silver II|[나무 자르기](https://www.acmicpc.net/problem/14247)|[14247.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/14247.py)|
+|14284|graph theory|그래프 이론|Gold V|[간선 이어가기 2](https://www.acmicpc.net/problem/14284)|[14284.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/14284.py)|
 |14425|set / map by trees|트리를 사용한 집합과 맵|Silver III|[문자열 집합](https://www.acmicpc.net/problem/14425)|[14425.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/14425.py)|
 |14469|sorting|정렬|Silver IV|[소가 길을 건너간 이유 3](https://www.acmicpc.net/problem/14469)|[14469.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/14469.py)|
 |14500|implementation|구현|Gold IV|[테트로미노](https://www.acmicpc.net/problem/14500)|[14500.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/14500.py)|
