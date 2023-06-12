@@ -230,6 +230,7 @@
 |16928|graph traversal|그래프 탐색|Gold V|[뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)|[16928.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16928.py)|
 |17070|graph traversal|그래프 탐색|Gold V|[파이프 옮기기 1](https://www.acmicpc.net/problem/17070)|[17070.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17070.py)|
 |17085|implementation|구현|Gold V|[십자가 2개 놓기](https://www.acmicpc.net/problem/17085)|[17085.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17085.py)|
+|17140|sorting|정렬|Gold IV|[이차원 배열과 연산](https://www.acmicpc.net/problem/17140)|[17140.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17140.py)|
 |17141|graph traversal|그래프 탐색|Gold IV|[연구소 2](https://www.acmicpc.net/problem/17141)|[17141.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17141.py)|
 |17142|graph traversal|그래프 탐색|Gold III|[연구소 3](https://www.acmicpc.net/problem/17142)|[17142.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17142.py)|
 |17144|simulation|시뮬레이션|Gold IV|[미세먼지 안녕!](https://www.acmicpc.net/problem/17144)|[17144.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17144.py)|
