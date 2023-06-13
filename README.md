@@ -145,6 +145,7 @@
 |9020|sieve of eratosthenes|에라토스테네스의 체|Silver II|[골드바흐의 추측](https://www.acmicpc.net/problem/9020)|[9020.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9020.py)|
 |9079|bruteforcing|브루트포스 알고리즘|Silver II|[동전 게임](https://www.acmicpc.net/problem/9079)|[9079.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9079.py)|
 |9084|knapsack|배낭 문제|Gold V|[동전](https://www.acmicpc.net/problem/9084)|[9084.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9084.py)|
+|9094|mathematics|수학|Bronze III|[수학적 호기심](https://www.acmicpc.net/problem/9094)|[9094.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9094.py)|
 |9205|graph traversal|그래프 탐색|Gold V|[맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)|[9205.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9205.py)|
 |9251|string|문자열|Gold V|[LCS](https://www.acmicpc.net/problem/9251)|[9251.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9251.py)|
 |9375|mathematics|수학|Silver III|[패션왕 신해빈](https://www.acmicpc.net/problem/9375)|[9375.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9375.py)|
