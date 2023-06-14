@@ -30,6 +30,7 @@
 |1238|graph theory|그래프 이론|Gold III|[파티](https://www.acmicpc.net/problem/1238)|[1238.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1238.py)|
 |1251|string|문자열|Silver V|[단어 나누기](https://www.acmicpc.net/problem/1251)|[1251.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1251.py)|
 |1260|depth-first search|깊이 우선 탐색|Silver II|[DFS와 BFS](https://www.acmicpc.net/problem/1260)|[1260.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1260.py)|
+|1261|graph traversal|그래프 탐색|Gold IV|[알고스팟](https://www.acmicpc.net/problem/1261)|[1261.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1261.py)|
 |1269|set / map by trees|트리를 사용한 집합과 맵|Silver IV|[대칭 차집합](https://www.acmicpc.net/problem/1269)|[1269.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1269.py)|
 |1300|parametric search|매개 변수 탐색|Gold II|[K번째 수](https://www.acmicpc.net/problem/1300)|[1300.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1300.py)|
 |1302|string|문자열|Silver IV|[베스트셀러](https://www.acmicpc.net/problem/1302)|[1302.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1302.py)|
@@ -52,6 +53,7 @@
 |1707|graph traversal|그래프 탐색|Gold IV|[이분 그래프](https://www.acmicpc.net/problem/1707)|[1707.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1707.py)|
 |1717|disjoint set|분리 집합|Gold V|[집합의 표현](https://www.acmicpc.net/problem/1717)|[1717.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1717.py)|
 |1744|sorting|정렬|Gold IV|[수 묶기](https://www.acmicpc.net/problem/1744)|[1744.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1744.py)|
+|1753|graph theory|그래프 이론|Gold IV|[최단경로](https://www.acmicpc.net/problem/1753)|[1753.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1753.py)|
 |1758|sorting|정렬|Silver IV|[알바생 강호](https://www.acmicpc.net/problem/1758)|[1758.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1758.py)|
 |1759|mathematics|수학|Gold V|[암호 만들기](https://www.acmicpc.net/problem/1759)|[1759.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1759.py)|
 |1764|string|문자열|Silver IV|[듣보잡](https://www.acmicpc.net/problem/1764)|[1764.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1764.py)|
@@ -228,6 +230,7 @@
 |16435|sorting|정렬|Silver V|[스네이크버드](https://www.acmicpc.net/problem/16435)|[16435.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16435.py)|
 |16471|sorting|정렬|Silver III|[작은 수 내기](https://www.acmicpc.net/problem/16471)|[16471.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16471.py)|
 |16496|sorting|정렬|Platinum V|[큰 수 만들기](https://www.acmicpc.net/problem/16496)|[16496.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16496.py)|
+|16508|bruteforcing|브루트포스 알고리즘|Silver III|[전공책](https://www.acmicpc.net/problem/16508)|[16508.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16508.py)|
 |16637|bruteforcing|브루트포스 알고리즘|Gold III|[괄호 추가하기](https://www.acmicpc.net/problem/16637)|[16637.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16637.py)|
 |16924|simulation|시뮬레이션|Silver II|[십자가 찾기](https://www.acmicpc.net/problem/16924)|[16924.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16924.py)|
 |16928|graph traversal|그래프 탐색|Gold V|[뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)|[16928.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16928.py)|
