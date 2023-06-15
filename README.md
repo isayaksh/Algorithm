@@ -220,6 +220,7 @@
 |15683|simulation|시뮬레이션|Gold IV|[감시](https://www.acmicpc.net/problem/15683)|[15683.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15683.py)|
 |15685|simulation|시뮬레이션|Gold IV|[드래곤 커브](https://www.acmicpc.net/problem/15685)|[15685.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15685.py)|
 |15686|implementation|구현|Gold V|[치킨 배달](https://www.acmicpc.net/problem/15686)|[15686.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15686.py)|
+|15810|parametric search|매개 변수 탐색|Silver II|[풍선 공장](https://www.acmicpc.net/problem/15810)|[15810.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15810.py)|
 |15903|priority queue|우선순위 큐|Silver I|[카드 합체 놀이](https://www.acmicpc.net/problem/15903)|[15903.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15903.py)|
 |16168|graph traversal|그래프 탐색|Gold IV|[퍼레이드](https://www.acmicpc.net/problem/16168)|[16168.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16168.py)|
 |16198|bruteforcing|브루트포스 알고리즘|Silver I|[에너지 모으기](https://www.acmicpc.net/problem/16198)|[16198.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16198.py)|
