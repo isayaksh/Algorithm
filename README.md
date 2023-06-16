@@ -150,6 +150,7 @@
 |9205|graph traversal|그래프 탐색|Gold V|[맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)|[9205.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9205.py)|
 |9251|string|문자열|Gold V|[LCS](https://www.acmicpc.net/problem/9251)|[9251.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9251.py)|
 |9375|mathematics|수학|Silver III|[패션왕 신해빈](https://www.acmicpc.net/problem/9375)|[9375.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9375.py)|
+|9421|sieve of eratosthenes|에라토스테네스의 체|Silver I|[소수상근수](https://www.acmicpc.net/problem/9421)|[9421.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9421.py)|
 |9440|sorting|정렬|Silver III|[숫자 더하기](https://www.acmicpc.net/problem/9440)|[9440.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9440.py)|
 |9461|mathematics|수학|Silver III|[파도반 수열](https://www.acmicpc.net/problem/9461)|[9461.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9461.py)|
 |9576|greedy|그리디 알고리즘|Gold II|[책 나눠주기](https://www.acmicpc.net/problem/9576)|[9576.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9576.py)|
