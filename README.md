@@ -125,6 +125,7 @@
 |3273|two-pointer|두 포인터|Silver III|[두 수의 합](https://www.acmicpc.net/problem/3273)|[3273.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/3273.py)|
 |3687|greedy|그리디 알고리즘|Gold II|[성냥개비](https://www.acmicpc.net/problem/3687)|[3687.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/3687.py)|
 |3986|stack|스택|Silver IV|[좋은 단어](https://www.acmicpc.net/problem/3986)|[3986.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/3986.py)|
+|4358|set / map by trees|트리를 사용한 집합과 맵|Silver II|[생태학](https://www.acmicpc.net/problem/4358)|[4358.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/4358.py)|
 |4386|minimum spanning tree|최소 스패닝 트리|Gold III|[별자리 만들기](https://www.acmicpc.net/problem/4386)|[4386.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/4386.py)|
 |4485|graph theory|그래프 이론|Gold IV|[녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)|[4485.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/4485.py)|
 |4673|mathematics|수학|Silver V|[셀프 넘버](https://www.acmicpc.net/problem/4673)|[4673.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/4673.py)|
@@ -250,6 +251,7 @@
 |17141|graph traversal|그래프 탐색|Gold IV|[연구소 2](https://www.acmicpc.net/problem/17141)|[17141.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17141.py)|
 |17142|graph traversal|그래프 탐색|Gold III|[연구소 3](https://www.acmicpc.net/problem/17142)|[17142.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17142.py)|
 |17144|simulation|시뮬레이션|Gold IV|[미세먼지 안녕!](https://www.acmicpc.net/problem/17144)|[17144.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17144.py)|
+|17212|dynamic programming|다이나믹 프로그래밍|Silver III|[달나라 토끼를 위한 구매대금 지불 도우미](https://www.acmicpc.net/problem/17212)|[17212.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17212.py)|
 |17406|implementation|구현|Gold IV|[배열 돌리기 4](https://www.acmicpc.net/problem/17406)|[17406.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17406.py)|
 |17471|mathematics|수학|Gold IV|[게리맨더링](https://www.acmicpc.net/problem/17471)|[17471.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17471.py)|
 |17472|minimum spanning tree|최소 스패닝 트리|Gold I|[다리 만들기 2](https://www.acmicpc.net/problem/17472)|[17472.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17472.py)|
