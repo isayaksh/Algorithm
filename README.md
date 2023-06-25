@@ -259,6 +259,7 @@
 |17521|greedy|그리디 알고리즘|Silver IV|[Byte Coin](https://www.acmicpc.net/problem/17521)|[17521.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17521.py)|
 |17822|simulation|시뮬레이션|Gold II|[원판 돌리기](https://www.acmicpc.net/problem/17822)|[17822.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17822.py)|
 |17828|string|문자열|Gold V|[문자열 화폐](https://www.acmicpc.net/problem/17828)|[17828.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17828.py)|
+|18114|sorting|정렬|Gold V|[블랙 프라이데이](https://www.acmicpc.net/problem/18114)|[18114.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/18114.py)|
 |18243|graph traversal|그래프 탐색|Silver I|[Small World Network](https://www.acmicpc.net/problem/18243)|[18243.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/18243.py)|
 |18258|queue|큐|Silver IV|[큐 2](https://www.acmicpc.net/problem/18258)|[18258.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/18258.py)|
 |18310|sorting|정렬|Silver III|[안테나](https://www.acmicpc.net/problem/18310)|[18310.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/18310.py)|
