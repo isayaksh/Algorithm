@@ -217,6 +217,7 @@
 |14500|implementation|구현|Gold IV|[테트로미노](https://www.acmicpc.net/problem/14500)|[14500.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/14500.py)|
 |14501|dynamic programming|다이나믹 프로그래밍|Silver III|[퇴사](https://www.acmicpc.net/problem/14501)|[14501.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/14501.py)|
 |14503|simulation|시뮬레이션|Gold V|[로봇 청소기](https://www.acmicpc.net/problem/14503)|[14503.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/14503.py)|
+|14595|sweeping|스위핑|Gold III|[동방 프로젝트 (Large)](https://www.acmicpc.net/problem/14595)|[14595.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/14595.py)|
 |14659|greedy|그리디 알고리즘|Bronze I|[한조서열정리하고옴ㅋㅋ](https://www.acmicpc.net/problem/14659)|[14659.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/14659.py)|
 |14719|simulation|시뮬레이션|Gold V|[빗물](https://www.acmicpc.net/problem/14719)|[14719.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/14719.py)|
 |14889|bruteforcing|브루트포스 알고리즘|Silver II|[스타트와 링크](https://www.acmicpc.net/problem/14889)|[14889.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/14889.py)|
