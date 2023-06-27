@@ -129,6 +129,7 @@
 |4386|minimum spanning tree|최소 스패닝 트리|Gold III|[별자리 만들기](https://www.acmicpc.net/problem/4386)|[4386.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/4386.py)|
 |4485|graph theory|그래프 이론|Gold IV|[녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)|[4485.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/4485.py)|
 |4673|mathematics|수학|Silver V|[셀프 넘버](https://www.acmicpc.net/problem/4673)|[4673.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/4673.py)|
+|4836|string|문자열|Silver IV|[춤](https://www.acmicpc.net/problem/4836)|[4836.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/4836.py)|
 |4889|string|문자열|Silver I|[안정적인 문자열](https://www.acmicpc.net/problem/4889)|[4889.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/4889.py)|
 |4948|sieve of eratosthenes|에라토스테네스의 체|Silver II|[베르트랑 공준](https://www.acmicpc.net/problem/4948)|[4948.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/4948.py)|
 |4949|string|문자열|Silver IV|[균형잡힌 세상](https://www.acmicpc.net/problem/4949)|[4949.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/4949.py)|
@@ -267,6 +268,7 @@
 |18405|implementation|구현|Gold V|[경쟁적 전염](https://www.acmicpc.net/problem/18405)|[18405.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/18405.py)|
 |18428|bruteforcing|브루트포스 알고리즘|Gold V|[감시 피하기](https://www.acmicpc.net/problem/18428)|[18428.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/18428.py)|
 |18870|sorting|정렬|Silver II|[좌표 압축](https://www.acmicpc.net/problem/18870)|[18870.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/18870.py)|
+|19532|mathematics|수학|Bronze II|[수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532)|[19532.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/19532.py)|
 |19539|mathematics|수학|Gold V|[사과나무](https://www.acmicpc.net/problem/19539)|[19539.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/19539.py)|
 |19583|string|문자열|Silver II|[싸이버개강총회](https://www.acmicpc.net/problem/19583)|[19583.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/19583.py)|
 |19598|sweeping|스위핑|Gold V|[최소 회의실 개수](https://www.acmicpc.net/problem/19598)|[19598.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/19598.py)|
