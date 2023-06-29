@@ -95,7 +95,7 @@
 |2467|two-pointer|두 포인터|Gold V|[용액](https://www.acmicpc.net/problem/2467)|[2467.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2467.py)|
 |2469|string|문자열|Gold V|[사다리 타기](https://www.acmicpc.net/problem/2469)|[2469.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2469.py)|
 |2493|stack|스택|Gold V|[탑](https://www.acmicpc.net/problem/2493)|[2493.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2493.py)|
-|2504|stack|스택|Silver I|[괄호의 값](https://www.acmicpc.net/problem/2504)|[2504.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2504.py)|
+|2504|stack|스택|Gold V|[괄호의 값](https://www.acmicpc.net/problem/2504)|[2504.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2504.py)|
 |2548|sorting|정렬|Silver III|[대표 자연수](https://www.acmicpc.net/problem/2548)|[2548.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2548.py)|
 |2559|two-pointer|두 포인터|Silver III|[수열](https://www.acmicpc.net/problem/2559)|[2559.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2559.py)|
 |2565|dynamic programming|다이나믹 프로그래밍|Gold V|[전깃줄](https://www.acmicpc.net/problem/2565)|[2565.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2565.py)|
@@ -232,6 +232,7 @@
 |15685|simulation|시뮬레이션|Gold IV|[드래곤 커브](https://www.acmicpc.net/problem/15685)|[15685.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15685.py)|
 |15686|implementation|구현|Gold V|[치킨 배달](https://www.acmicpc.net/problem/15686)|[15686.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15686.py)|
 |15810|parametric search|매개 변수 탐색|Silver II|[풍선 공장](https://www.acmicpc.net/problem/15810)|[15810.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15810.py)|
+|15886|string|문자열|Silver III|[내 선물을 받아줘 2](https://www.acmicpc.net/problem/15886)|[15886.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15886.py)|
 |15903|priority queue|우선순위 큐|Silver I|[카드 합체 놀이](https://www.acmicpc.net/problem/15903)|[15903.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15903.py)|
 |15918|backtracking|백트래킹|Gold V|[랭퍼든 수열쟁이야!!](https://www.acmicpc.net/problem/15918)|[15918.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15918.py)|
 |16168|graph traversal|그래프 탐색|Gold IV|[퍼레이드](https://www.acmicpc.net/problem/16168)|[16168.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16168.py)|
