@@ -146,7 +146,7 @@
 |7511|graph traversal|그래프 탐색|Gold V|[소셜 네트워킹 어플리케이션](https://www.acmicpc.net/problem/7511)|[7511.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/7511.py)|
 |7562|graph traversal|그래프 탐색|Silver I|[나이트의 이동](https://www.acmicpc.net/problem/7562)|[7562.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/7562.py)|
 |7785|set / map by hashing|해시를 사용한 집합과 맵|Silver V|[회사에 있는 사람](https://www.acmicpc.net/problem/7785)|[7785.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/7785.py)|
-|8980|sorting|정렬|Gold II|[택배](https://www.acmicpc.net/problem/8980)|[8980.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/8980.py)|
+|8980|sorting|정렬|Gold I|[택배](https://www.acmicpc.net/problem/8980)|[8980.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/8980.py)|
 |9009|mathematics|수학|Silver I|[피보나치](https://www.acmicpc.net/problem/9009)|[9009.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9009.py)|
 |9019|graph traversal|그래프 탐색|Gold IV|[DSLR](https://www.acmicpc.net/problem/9019)|[9019.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9019.py)|
 |9020|sieve of eratosthenes|에라토스테네스의 체|Silver II|[골드바흐의 추측](https://www.acmicpc.net/problem/9020)|[9020.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9020.py)|
@@ -278,6 +278,7 @@
 |19939|mathematics|수학|Silver IV|[박 터뜨리기](https://www.acmicpc.net/problem/19939)|[19939.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/19939.py)|
 |19941|greedy|그리디 알고리즘|Silver III|[햄버거 분배](https://www.acmicpc.net/problem/19941)|[19941.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/19941.py)|
 |19942|bruteforcing|브루트포스 알고리즘|Gold V|[다이어트](https://www.acmicpc.net/problem/19942)|[19942.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/19942.py)|
+|19948|string|문자열|Silver III|[음유시인 영재](https://www.acmicpc.net/problem/19948)|[19948.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/19948.py)|
 |20055|simulation|시뮬레이션|Gold V|[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|[20055.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/20055.py)|
 |20915|greedy|그리디 알고리즘|Silver II|[숫자 카드 놀이](https://www.acmicpc.net/problem/20915)|[20915.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/20915.py)|
 |21758|prefix sum|누적 합|Gold V|[꿀 따기](https://www.acmicpc.net/problem/21758)|[21758.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/21758.py)|
