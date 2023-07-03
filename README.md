@@ -233,6 +233,7 @@
 |15683|simulation|시뮬레이션|Gold IV|[감시](https://www.acmicpc.net/problem/15683)|[15683.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15683.py)|
 |15685|simulation|시뮬레이션|Gold IV|[드래곤 커브](https://www.acmicpc.net/problem/15685)|[15685.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15685.py)|
 |15686|implementation|구현|Gold V|[치킨 배달](https://www.acmicpc.net/problem/15686)|[15686.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15686.py)|
+|15779|implementation|구현|Silver V|[Zigzag](https://www.acmicpc.net/problem/15779)|[15779.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15779.py)|
 |15810|parametric search|매개 변수 탐색|Silver II|[풍선 공장](https://www.acmicpc.net/problem/15810)|[15810.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15810.py)|
 |15886|string|문자열|Silver III|[내 선물을 받아줘 2](https://www.acmicpc.net/problem/15886)|[15886.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15886.py)|
 |15903|priority queue|우선순위 큐|Silver I|[카드 합체 놀이](https://www.acmicpc.net/problem/15903)|[15903.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15903.py)|
