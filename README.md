@@ -37,6 +37,7 @@
 |1316|string|문자열|Silver V|[그룹 단어 체커](https://www.acmicpc.net/problem/1316)|[1316.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1316.py)|
 |1374|sorting|정렬|Gold V|[강의실](https://www.acmicpc.net/problem/1374)|[1374.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1374.py)|
 |1417|simulation|시뮬레이션|Silver V|[국회의원 선거](https://www.acmicpc.net/problem/1417)|[1417.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1417.py)|
+|1446|graph theory|그래프 이론|Silver I|[지름길](https://www.acmicpc.net/problem/1446)|[1446.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1446.py)|
 |1448|sorting|정렬|Silver III|[삼각형 만들기](https://www.acmicpc.net/problem/1448)|[1448.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1448.py)|
 |1449|sorting|정렬|Silver III|[수리공 항승](https://www.acmicpc.net/problem/1449)|[1449.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1449.py)|
 |1461|sorting|정렬|Gold V|[도서관](https://www.acmicpc.net/problem/1461)|[1461.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1461.py)|
