@@ -67,6 +67,7 @@
 |1904|dynamic programming|다이나믹 프로그래밍|Silver III|[01타일](https://www.acmicpc.net/problem/1904)|[1904.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1904.py)|
 |1916|graph theory|그래프 이론|Gold V|[최소비용 구하기](https://www.acmicpc.net/problem/1916)|[1916.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1916.py)|
 |1922|minimum spanning tree|최소 스패닝 트리|Gold IV|[네트워크 연결](https://www.acmicpc.net/problem/1922)|[1922.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1922.py)|
+|1926|graph traversal|그래프 탐색|Silver I|[그림](https://www.acmicpc.net/problem/1926)|[1926.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1926.py)|
 |1927|priority queue|우선순위 큐|Silver II|[최소 힙](https://www.acmicpc.net/problem/1927)|[1927.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1927.py)|
 |1939|graph traversal|그래프 탐색|Gold III|[중량제한](https://www.acmicpc.net/problem/1939)|[1939.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1939.py)|
 |1963|sieve of eratosthenes|에라토스테네스의 체|Gold IV|[소수 경로](https://www.acmicpc.net/problem/1963)|[1963.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1963.py)|
