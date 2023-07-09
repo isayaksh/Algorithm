@@ -211,6 +211,7 @@
 |13417|string|문자열|Silver III|[카드 문자열](https://www.acmicpc.net/problem/13417)|[13417.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13417.py)|
 |13460|simulation|시뮬레이션|Gold I|[구슬 탈출 2](https://www.acmicpc.net/problem/13460)|[13460.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13460.py)|
 |13549|graph traversal|그래프 탐색|Gold V|[숨바꼭질 3](https://www.acmicpc.net/problem/13549)|[13549.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13549.py)|
+|13702|binary search|이분 탐색|Silver III|[이상한 술집](https://www.acmicpc.net/problem/13702)|[13702.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13702.py)|
 |13904|sorting|정렬|Gold III|[과제](https://www.acmicpc.net/problem/13904)|[13904.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13904.py)|
 |13975|priority queue|우선순위 큐|Gold IV|[파일 합치기 3](https://www.acmicpc.net/problem/13975)|[13975.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13975.py)|
 |14235|priority queue|우선순위 큐|Silver III|[크리스마스 선물](https://www.acmicpc.net/problem/14235)|[14235.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/14235.py)|
