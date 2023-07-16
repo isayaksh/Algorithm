@@ -170,6 +170,7 @@
 |10448|mathematics|수학|Bronze I|[유레카 이론](https://www.acmicpc.net/problem/10448)|[10448.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/10448.py)|
 |10546|set / map by hashing|해시를 사용한 집합과 맵|Silver IV|[배부른 마라토너](https://www.acmicpc.net/problem/10546)|[10546.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/10546.py)|
 |10773|stack|스택|Silver IV|[제로](https://www.acmicpc.net/problem/10773)|[10773.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/10773.py)|
+|10798|string|문자열|Bronze I|[세로읽기](https://www.acmicpc.net/problem/10798)|[10798.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/10798.py)|
 |10814|sorting|정렬|Silver V|[나이순 정렬](https://www.acmicpc.net/problem/10814)|[10814.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/10814.py)|
 |10815|sorting|정렬|Silver V|[숫자 카드](https://www.acmicpc.net/problem/10815)|[10815.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/10815.py)|
 |10816|sorting|정렬|Silver IV|[숫자 카드 2](https://www.acmicpc.net/problem/10816)|[10816.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/10816.py)|
