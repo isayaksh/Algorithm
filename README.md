@@ -40,7 +40,7 @@
 |1446|graph theory|그래프 이론|Silver I|[지름길](https://www.acmicpc.net/problem/1446)|[1446.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1446.py)|
 |1448|sorting|정렬|Silver III|[삼각형 만들기](https://www.acmicpc.net/problem/1448)|[1448.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1448.py)|
 |1449|sorting|정렬|Silver III|[수리공 항승](https://www.acmicpc.net/problem/1449)|[1449.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1449.py)|
-|1461|sorting|정렬|Gold V|[도서관](https://www.acmicpc.net/problem/1461)|[1461.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1461.py)|
+|1461|sorting|정렬|Gold IV|[도서관](https://www.acmicpc.net/problem/1461)|[1461.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1461.py)|
 |1475|implementation|구현|Silver V|[방 번호](https://www.acmicpc.net/problem/1475)|[1475.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1475.py)|
 |1487|bruteforcing|브루트포스 알고리즘|Silver IV|[물건 팔기](https://www.acmicpc.net/problem/1487)|[1487.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1487.py)|
 |1504|graph theory|그래프 이론|Gold IV|[특정한 최단 경로](https://www.acmicpc.net/problem/1504)|[1504.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1504.py)|
@@ -195,6 +195,7 @@
 |11559|simulation|시뮬레이션|Gold IV|[Puyo Puyo](https://www.acmicpc.net/problem/11559)|[11559.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/11559.py)|
 |11652|sorting|정렬|Silver IV|[카드](https://www.acmicpc.net/problem/11652)|[11652.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/11652.py)|
 |11660|prefix sum|누적 합|Silver I|[구간 합 구하기 5](https://www.acmicpc.net/problem/11660)|[11660.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/11660.py)|
+|11720|string|문자열|Bronze IV|[숫자의 합](https://www.acmicpc.net/problem/11720)|[11720.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/11720.py)|
 |11724|depth-first search|깊이 우선 탐색|Silver II|[연결 요소의 개수](https://www.acmicpc.net/problem/11724)|[11724.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/11724.py)|
 |11866|queue|큐|Silver V|[요세푸스 문제 0](https://www.acmicpc.net/problem/11866)|[11866.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/11866.py)|
 |12015|longest increasing sequence in o(n log n)|가장 긴 증가하는 부분 수열: O(n log n)|Gold II|[가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)|[12015.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/12015.py)|
