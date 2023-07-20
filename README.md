@@ -43,6 +43,7 @@
 |1461|sorting|정렬|Gold IV|[도서관](https://www.acmicpc.net/problem/1461)|[1461.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1461.py)|
 |1475|implementation|구현|Silver V|[방 번호](https://www.acmicpc.net/problem/1475)|[1475.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1475.py)|
 |1487|bruteforcing|브루트포스 알고리즘|Silver IV|[물건 팔기](https://www.acmicpc.net/problem/1487)|[1487.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1487.py)|
+|1495|dynamic programming|다이나믹 프로그래밍|Silver I|[기타리스트](https://www.acmicpc.net/problem/1495)|[1495.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1495.py)|
 |1504|graph theory|그래프 이론|Gold IV|[특정한 최단 경로](https://www.acmicpc.net/problem/1504)|[1504.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1504.py)|
 |1516|topological sorting|위상 정렬|Gold III|[게임 개발](https://www.acmicpc.net/problem/1516)|[1516.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1516.py)|
 |1543|string|문자열|Silver IV|[문서 검색](https://www.acmicpc.net/problem/1543)|[1543.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1543.py)|
