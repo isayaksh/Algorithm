@@ -164,6 +164,7 @@
 |9421|sieve of eratosthenes|에라토스테네스의 체|Silver I|[소수상근수](https://www.acmicpc.net/problem/9421)|[9421.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9421.py)|
 |9440|sorting|정렬|Silver III|[숫자 더하기](https://www.acmicpc.net/problem/9440)|[9440.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9440.py)|
 |9461|mathematics|수학|Silver III|[파도반 수열](https://www.acmicpc.net/problem/9461)|[9461.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9461.py)|
+|9536|string|문자열|Silver III|[여우는 어떻게 울지?](https://www.acmicpc.net/problem/9536)|[9536.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9536.py)|
 |9576|greedy|그리디 알고리즘|Gold II|[책 나눠주기](https://www.acmicpc.net/problem/9576)|[9576.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9576.py)|
 |9655|mathematics|수학|Silver V|[돌 게임](https://www.acmicpc.net/problem/9655)|[9655.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9655.py)|
 |9935|string|문자열|Gold IV|[문자열 폭발](https://www.acmicpc.net/problem/9935)|[9935.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9935.py)|
