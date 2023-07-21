@@ -126,6 +126,7 @@
 |3055|graph traversal|그래프 탐색|Gold IV|[탈출](https://www.acmicpc.net/problem/3055)|[3055.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/3055.py)|
 |3109|greedy|그리디 알고리즘|Gold II|[빵집](https://www.acmicpc.net/problem/3109)|[3109.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/3109.py)|
 |3135|mathematics|수학|Silver V|[라디오](https://www.acmicpc.net/problem/3135)|[3135.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/3135.py)|
+|3187|graph traversal|그래프 탐색|Silver I|[양치기 꿍](https://www.acmicpc.net/problem/3187)|[3187.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/3187.py)|
 |3190|simulation|시뮬레이션|Gold IV|[뱀](https://www.acmicpc.net/problem/3190)|[3190.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/3190.py)|
 |3273|two-pointer|두 포인터|Silver III|[두 수의 합](https://www.acmicpc.net/problem/3273)|[3273.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/3273.py)|
 |3687|greedy|그리디 알고리즘|Gold II|[성냥개비](https://www.acmicpc.net/problem/3687)|[3687.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/3687.py)|
