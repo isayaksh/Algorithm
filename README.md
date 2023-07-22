@@ -296,5 +296,6 @@
 |19948|string|문자열|Silver III|[음유시인 영재](https://www.acmicpc.net/problem/19948)|[19948.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/19948.py)|
 |20055|simulation|시뮬레이션|Gold V|[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|[20055.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/20055.py)|
 |20915|greedy|그리디 알고리즘|Silver II|[숫자 카드 놀이](https://www.acmicpc.net/problem/20915)|[20915.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/20915.py)|
+|21314|implementation|구현|Silver II|[민겸 수](https://www.acmicpc.net/problem/21314)|[21314.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/21314.py)|
 |21758|prefix sum|누적 합|Gold V|[꿀 따기](https://www.acmicpc.net/problem/21758)|[21758.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/21758.py)|
 |21919|sieve of eratosthenes|에라토스테네스의 체|Silver III|[소수 최소 공배수](https://www.acmicpc.net/problem/21919)|[21919.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/21919.py)|
