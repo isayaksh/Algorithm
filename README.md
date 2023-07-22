@@ -246,6 +246,7 @@
 |15779|implementation|구현|Silver V|[Zigzag](https://www.acmicpc.net/problem/15779)|[15779.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15779.py)|
 |15810|parametric search|매개 변수 탐색|Silver II|[풍선 공장](https://www.acmicpc.net/problem/15810)|[15810.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15810.py)|
 |15886|string|문자열|Silver III|[내 선물을 받아줘 2](https://www.acmicpc.net/problem/15886)|[15886.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15886.py)|
+|15900|tree|트리|Silver I|[나무 탈출](https://www.acmicpc.net/problem/15900)|[15900.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15900.py)|
 |15903|priority queue|우선순위 큐|Silver I|[카드 합체 놀이](https://www.acmicpc.net/problem/15903)|[15903.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15903.py)|
 |15918|backtracking|백트래킹|Gold V|[랭퍼든 수열쟁이야!!](https://www.acmicpc.net/problem/15918)|[15918.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15918.py)|
 |16168|graph traversal|그래프 탐색|Gold IV|[퍼레이드](https://www.acmicpc.net/problem/16168)|[16168.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16168.py)|
