@@ -218,6 +218,7 @@
 |13308|graph theory|그래프 이론|Platinum V|[주유소](https://www.acmicpc.net/problem/13308)|[13308.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13308.py)|
 |13413|string|문자열|Silver IV|[오셀로 재배치](https://www.acmicpc.net/problem/13413)|[13413.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13413.py)|
 |13417|string|문자열|Silver III|[카드 문자열](https://www.acmicpc.net/problem/13417)|[13417.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13417.py)|
+|13418|minimum spanning tree|최소 스패닝 트리|Gold III|[학교 탐방하기](https://www.acmicpc.net/problem/13418)|[13418.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13418.py)|
 |13460|simulation|시뮬레이션|Gold I|[구슬 탈출 2](https://www.acmicpc.net/problem/13460)|[13460.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13460.py)|
 |13549|graph traversal|그래프 탐색|Gold V|[숨바꼭질 3](https://www.acmicpc.net/problem/13549)|[13549.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13549.py)|
 |13702|binary search|이분 탐색|Silver III|[이상한 술집](https://www.acmicpc.net/problem/13702)|[13702.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13702.py)|
