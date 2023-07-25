@@ -91,6 +91,7 @@
 |2239|implementation|구현|Gold IV|[스도쿠](https://www.acmicpc.net/problem/2239)|[2239.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2239.py)|
 |2252|topological sorting|위상 정렬|Gold III|[줄 세우기](https://www.acmicpc.net/problem/2252)|[2252.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2252.py)|
 |2262|greedy|그리디 알고리즘|Gold IV|[토너먼트 만들기](https://www.acmicpc.net/problem/2262)|[2262.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2262.py)|
+|2294|dynamic programming|다이나믹 프로그래밍|Gold V|[동전 2](https://www.acmicpc.net/problem/2294)|[2294.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2294.py)|
 |2304|stack|스택|Silver II|[창고 다각형](https://www.acmicpc.net/problem/2304)|[2304.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2304.py)|
 |2343|parametric search|매개 변수 탐색|Silver I|[기타 레슨](https://www.acmicpc.net/problem/2343)|[2343.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2343.py)|
 |2346|deque|덱|Silver III|[풍선 터뜨리기](https://www.acmicpc.net/problem/2346)|[2346.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2346.py)|
