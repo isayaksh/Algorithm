@@ -206,7 +206,7 @@
 |12100|simulation|시뮬레이션|Gold II|[2048 (Easy)](https://www.acmicpc.net/problem/12100)|[12100.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/12100.py)|
 |12312|greedy|그리디 알고리즘|Gold III|[Many Prizes (Large)](https://www.acmicpc.net/problem/12312)|[12312.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/12312.py)|
 |12738|longest increasing sequence in o(n log n)|가장 긴 증가하는 부분 수열: O(n log n)|Gold II|[가장 긴 증가하는 부분 수열 3](https://www.acmicpc.net/problem/12738)|[12738.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/12738.py)|
-|12782|mathematics|수학|Silver IV|[비트 우정지수](https://www.acmicpc.net/problem/12782)|[12782.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/12782.py)|
+|12782|greedy|그리디 알고리즘|Silver IV|[비트 우정지수](https://www.acmicpc.net/problem/12782)|[12782.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/12782.py)|
 |12852|graph traversal|그래프 탐색|Silver I|[1로 만들기 2](https://www.acmicpc.net/problem/12852)|[12852.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/12852.py)|
 |12865|knapsack|배낭 문제|Gold V|[평범한 배낭](https://www.acmicpc.net/problem/12865)|[12865.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/12865.py)|
 |12904|string|문자열|Gold V|[A와 B](https://www.acmicpc.net/problem/12904)|[12904.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/12904.py)|
@@ -250,6 +250,7 @@
 |15900|tree|트리|Silver I|[나무 탈출](https://www.acmicpc.net/problem/15900)|[15900.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15900.py)|
 |15903|priority queue|우선순위 큐|Silver I|[카드 합체 놀이](https://www.acmicpc.net/problem/15903)|[15903.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15903.py)|
 |15918|backtracking|백트래킹|Gold V|[랭퍼든 수열쟁이야!!](https://www.acmicpc.net/problem/15918)|[15918.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15918.py)|
+|16139|prefix sum|누적 합|Silver I|[인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139)|[16139.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16139.py)|
 |16168|graph traversal|그래프 탐색|Gold IV|[퍼레이드](https://www.acmicpc.net/problem/16168)|[16168.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16168.py)|
 |16198|bruteforcing|브루트포스 알고리즘|Silver I|[에너지 모으기](https://www.acmicpc.net/problem/16198)|[16198.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16198.py)|
 |16208|sorting|정렬|Silver V|[귀찮음](https://www.acmicpc.net/problem/16208)|[16208.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16208.py)|
