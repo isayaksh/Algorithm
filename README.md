@@ -93,6 +93,7 @@
 |2262|greedy|그리디 알고리즘|Gold IV|[토너먼트 만들기](https://www.acmicpc.net/problem/2262)|[2262.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2262.py)|
 |2294|dynamic programming|다이나믹 프로그래밍|Gold V|[동전 2](https://www.acmicpc.net/problem/2294)|[2294.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2294.py)|
 |2304|stack|스택|Silver II|[창고 다각형](https://www.acmicpc.net/problem/2304)|[2304.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2304.py)|
+|2309|sorting|정렬|Bronze I|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)|[2309.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2309.py)|
 |2343|parametric search|매개 변수 탐색|Silver I|[기타 레슨](https://www.acmicpc.net/problem/2343)|[2343.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2343.py)|
 |2346|deque|덱|Silver III|[풍선 터뜨리기](https://www.acmicpc.net/problem/2346)|[2346.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2346.py)|
 |2436|number theory|정수론|Gold V|[공약수](https://www.acmicpc.net/problem/2436)|[2436.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2436.py)|
