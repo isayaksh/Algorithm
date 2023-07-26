@@ -199,6 +199,7 @@
 |11508|sorting|정렬|Silver IV|[2+1 세일](https://www.acmicpc.net/problem/11508)|[11508.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/11508.py)|
 |11509|greedy|그리디 알고리즘|Gold V|[풍선 맞추기](https://www.acmicpc.net/problem/11509)|[11509.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/11509.py)|
 |11559|simulation|시뮬레이션|Gold IV|[Puyo Puyo](https://www.acmicpc.net/problem/11559)|[11559.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/11559.py)|
+|11568|longest increasing sequence in o(n log n)|가장 긴 증가하는 부분 수열: O(n log n)|Silver II|[민균이의 계략](https://www.acmicpc.net/problem/11568)|[11568.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/11568.py)|
 |11652|sorting|정렬|Silver IV|[카드](https://www.acmicpc.net/problem/11652)|[11652.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/11652.py)|
 |11660|prefix sum|누적 합|Silver I|[구간 합 구하기 5](https://www.acmicpc.net/problem/11660)|[11660.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/11660.py)|
 |11720|string|문자열|Bronze IV|[숫자의 합](https://www.acmicpc.net/problem/11720)|[11720.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/11720.py)|
