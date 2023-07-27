@@ -217,6 +217,7 @@
 |12931|greedy|그리디 알고리즘|Gold V|[두 배 더하기](https://www.acmicpc.net/problem/12931)|[12931.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/12931.py)|
 |12981|mathematics|수학|Silver IV|[공 포장하기](https://www.acmicpc.net/problem/12981)|[12981.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/12981.py)|
 |13165|randomization|무작위화|Diamond V|[이것도 해결해 보시지](https://www.acmicpc.net/problem/13165)|[13165.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13165.py)|
+|13305|greedy|그리디 알고리즘|Silver III|[주유소](https://www.acmicpc.net/problem/13305)|[13305.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13305.py)|
 |13308|graph theory|그래프 이론|Platinum V|[주유소](https://www.acmicpc.net/problem/13308)|[13308.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13308.py)|
 |13413|string|문자열|Silver IV|[오셀로 재배치](https://www.acmicpc.net/problem/13413)|[13413.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13413.py)|
 |13417|string|문자열|Silver III|[카드 문자열](https://www.acmicpc.net/problem/13417)|[13417.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13417.py)|
@@ -258,7 +259,7 @@
 |16168|graph traversal|그래프 탐색|Gold IV|[퍼레이드](https://www.acmicpc.net/problem/16168)|[16168.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16168.py)|
 |16198|bruteforcing|브루트포스 알고리즘|Silver I|[에너지 모으기](https://www.acmicpc.net/problem/16198)|[16198.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16198.py)|
 |16208|sorting|정렬|Silver V|[귀찮음](https://www.acmicpc.net/problem/16208)|[16208.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16208.py)|
-|16234|simulation|시뮬레이션|Gold V|[인구 이동](https://www.acmicpc.net/problem/16234)|[16234.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16234.py)|
+|16234|simulation|시뮬레이션|Gold IV|[인구 이동](https://www.acmicpc.net/problem/16234)|[16234.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16234.py)|
 |16235|simulation|시뮬레이션|Gold III|[나무 재테크](https://www.acmicpc.net/problem/16235)|[16235.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16235.py)|
 |16236|simulation|시뮬레이션|Gold III|[아기 상어](https://www.acmicpc.net/problem/16236)|[16236.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16236.py)|
 |16398|minimum spanning tree|최소 스패닝 트리|Gold IV|[행성 연결](https://www.acmicpc.net/problem/16398)|[16398.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16398.py)|
