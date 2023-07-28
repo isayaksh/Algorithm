@@ -150,6 +150,7 @@
 |5545|sorting|정렬|Silver III|[최고의 피자](https://www.acmicpc.net/problem/5545)|[5545.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/5545.py)|
 |5582|string|문자열|Gold V|[공통 부분 문자열](https://www.acmicpc.net/problem/5582)|[5582.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/5582.py)|
 |5635|string|문자열|Silver V|[생일](https://www.acmicpc.net/problem/5635)|[5635.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/5635.py)|
+|6159|two-pointer|두 포인터|Silver V|[Costume Party](https://www.acmicpc.net/problem/6159)|[6159.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/6159.py)|
 |6443|string|문자열|Gold V|[애너그램](https://www.acmicpc.net/problem/6443)|[6443.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/6443.py)|
 |6603|recursion|재귀|Silver II|[로또](https://www.acmicpc.net/problem/6603)|[6603.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/6603.py)|
 |7511|graph traversal|그래프 탐색|Gold V|[소셜 네트워킹 어플리케이션](https://www.acmicpc.net/problem/7511)|[7511.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/7511.py)|
