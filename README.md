@@ -186,6 +186,7 @@
 |10825|sorting|정렬|Silver IV|[국영수](https://www.acmicpc.net/problem/10825)|[10825.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/10825.py)|
 |10830|mathematics|수학|Gold IV|[행렬 제곱](https://www.acmicpc.net/problem/10830)|[10830.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/10830.py)|
 |10924|permutation cycle decomposition|순열 사이클 분할|Diamond V|[정렬하기 2](https://www.acmicpc.net/problem/10924)|[10924.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/10924.py)|
+|10974|bruteforcing|브루트포스 알고리즘|Silver III|[모든 순열](https://www.acmicpc.net/problem/10974)|[10974.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/10974.py)|
 |11048|dynamic programming|다이나믹 프로그래밍|Silver II|[이동하기](https://www.acmicpc.net/problem/11048)|[11048.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/11048.py)|
 |11051|mathematics|수학|Silver II|[이항 계수 2](https://www.acmicpc.net/problem/11051)|[11051.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/11051.py)|
 |11123|graph traversal|그래프 탐색|Silver II|[양 한마리... 양 두마리...](https://www.acmicpc.net/problem/11123)|[11123.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/11123.py)|
