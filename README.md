@@ -13,7 +13,7 @@
 |1049|mathematics|수학|Silver IV|[기타줄](https://www.acmicpc.net/problem/1049)|[1049.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1049.py)|
 |1052|mathematics|수학|Silver I|[물병](https://www.acmicpc.net/problem/1052)|[1052.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1052.py)|
 |1062|bruteforcing|브루트포스 알고리즘|Gold IV|[가르침](https://www.acmicpc.net/problem/1062)|[1062.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1062.py)|
-|1065|bruteforcing|브루트포스 알고리즘|Silver IV|[한수](https://www.acmicpc.net/problem/1065)|[1065.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1065.py)|
+|1065|mathematics|수학|Silver IV|[한수](https://www.acmicpc.net/problem/1065)|[1065.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1065.py)|
 |1068|tree|트리|Gold V|[트리](https://www.acmicpc.net/problem/1068)|[1068.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1068.py)|
 |1074|recursion|재귀|Silver I|[Z](https://www.acmicpc.net/problem/1074)|[1074.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1074.py)|
 |1092|sorting|정렬|Gold V|[배](https://www.acmicpc.net/problem/1092)|[1092.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/1092.py)|
@@ -240,6 +240,7 @@
 |14503|simulation|시뮬레이션|Gold V|[로봇 청소기](https://www.acmicpc.net/problem/14503)|[14503.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/14503.py)|
 |14595|sweeping|스위핑|Gold III|[동방 프로젝트 (Large)](https://www.acmicpc.net/problem/14595)|[14595.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/14595.py)|
 |14659|greedy|그리디 알고리즘|Bronze I|[한조서열정리하고옴ㅋㅋ](https://www.acmicpc.net/problem/14659)|[14659.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/14659.py)|
+|14716|graph traversal|그래프 탐색|Silver I|[현수막](https://www.acmicpc.net/problem/14716)|[14716.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/14716.py)|
 |14719|simulation|시뮬레이션|Gold V|[빗물](https://www.acmicpc.net/problem/14719)|[14719.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/14719.py)|
 |14889|bruteforcing|브루트포스 알고리즘|Silver II|[스타트와 링크](https://www.acmicpc.net/problem/14889)|[14889.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/14889.py)|
 |14890|implementation|구현|Gold III|[경사로](https://www.acmicpc.net/problem/14890)|[14890.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/14890.py)|
