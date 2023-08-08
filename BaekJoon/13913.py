@@ -33,8 +33,6 @@ def solution(N, K):
     print(graph[K][0])
     print(' '.join(map(str,path)))
 
-# N, K = map(int, stdin.readline().split())
-
-N, K = 5, 17
+N, K = map(int, stdin.readline().split())
 
 solution(N, K)
