@@ -231,6 +231,7 @@
 |13549|graph traversal|그래프 탐색|Gold V|[숨바꼭질 3](https://www.acmicpc.net/problem/13549)|[13549.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13549.py)|
 |13702|binary search|이분 탐색|Silver III|[이상한 술집](https://www.acmicpc.net/problem/13702)|[13702.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13702.py)|
 |13904|sorting|정렬|Gold III|[과제](https://www.acmicpc.net/problem/13904)|[13904.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13904.py)|
+|13913|graph traversal|그래프 탐색|Gold IV|[숨바꼭질 4](https://www.acmicpc.net/problem/13913)|[13913.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13913.py)|
 |13975|priority queue|우선순위 큐|Gold IV|[파일 합치기 3](https://www.acmicpc.net/problem/13975)|[13975.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13975.py)|
 |14235|priority queue|우선순위 큐|Silver III|[크리스마스 선물](https://www.acmicpc.net/problem/14235)|[14235.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/14235.py)|
 |14241|mathematics|수학|Silver III|[슬라임 합치기](https://www.acmicpc.net/problem/14241)|[14241.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/14241.py)|
@@ -263,6 +264,7 @@
 |15918|backtracking|백트래킹|Gold V|[랭퍼든 수열쟁이야!!](https://www.acmicpc.net/problem/15918)|[15918.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15918.py)|
 |16139|prefix sum|누적 합|Silver I|[인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139)|[16139.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16139.py)|
 |16168|graph traversal|그래프 탐색|Gold IV|[퍼레이드](https://www.acmicpc.net/problem/16168)|[16168.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16168.py)|
+|16195|dynamic programming|다이나믹 프로그래밍|Silver I|[1, 2, 3 더하기 9](https://www.acmicpc.net/problem/16195)|[16195.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16195.py)|
 |16198|bruteforcing|브루트포스 알고리즘|Silver I|[에너지 모으기](https://www.acmicpc.net/problem/16198)|[16198.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16198.py)|
 |16208|sorting|정렬|Silver V|[귀찮음](https://www.acmicpc.net/problem/16208)|[16208.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16208.py)|
 |16234|simulation|시뮬레이션|Gold IV|[인구 이동](https://www.acmicpc.net/problem/16234)|[16234.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16234.py)|
@@ -304,12 +306,14 @@
 |19539|mathematics|수학|Gold V|[사과나무](https://www.acmicpc.net/problem/19539)|[19539.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/19539.py)|
 |19583|string|문자열|Silver II|[싸이버개강총회](https://www.acmicpc.net/problem/19583)|[19583.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/19583.py)|
 |19598|sweeping|스위핑|Gold V|[최소 회의실 개수](https://www.acmicpc.net/problem/19598)|[19598.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/19598.py)|
+|19699|sieve of eratosthenes|에라토스테네스의 체|Silver II|[소-난다!](https://www.acmicpc.net/problem/19699)|[19699.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/19699.py)|
 |19939|mathematics|수학|Silver IV|[박 터뜨리기](https://www.acmicpc.net/problem/19939)|[19939.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/19939.py)|
 |19941|greedy|그리디 알고리즘|Silver III|[햄버거 분배](https://www.acmicpc.net/problem/19941)|[19941.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/19941.py)|
 |19942|bruteforcing|브루트포스 알고리즘|Gold V|[다이어트](https://www.acmicpc.net/problem/19942)|[19942.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/19942.py)|
 |19948|string|문자열|Silver III|[음유시인 영재](https://www.acmicpc.net/problem/19948)|[19948.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/19948.py)|
 |20055|simulation|시뮬레이션|Gold V|[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|[20055.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/20055.py)|
 |20915|greedy|그리디 알고리즘|Silver II|[숫자 카드 놀이](https://www.acmicpc.net/problem/20915)|[20915.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/20915.py)|
+|21275|mathematics|수학|Silver II|[폰 호석만](https://www.acmicpc.net/problem/21275)|[21275.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/21275.py)|
 |21314|implementation|구현|Silver II|[민겸 수](https://www.acmicpc.net/problem/21314)|[21314.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/21314.py)|
 |21758|prefix sum|누적 합|Gold V|[꿀 따기](https://www.acmicpc.net/problem/21758)|[21758.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/21758.py)|
 |21919|sieve of eratosthenes|에라토스테네스의 체|Silver III|[소수 최소 공배수](https://www.acmicpc.net/problem/21919)|[21919.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/21919.py)|
