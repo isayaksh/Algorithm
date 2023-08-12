@@ -4,6 +4,8 @@
 from sys import stdin, setrecursionlimit
 from collections import defaultdict
 
+setrecursionlimit(10**6)
+
 def solution(N, edges):
 
     answer = [0] * (N+1)
@@ -20,7 +22,6 @@ def solution(N, edges):
                 answer[child] = parent
                 dfs(child)
     
-    # answer[1] = 1
     dfs(1)
 
     print('\n'.join(map(str, [answer[i] for i in range(2, N+1)])))
