@@ -211,6 +211,7 @@
 |11660|prefix sum|누적 합|Silver I|[구간 합 구하기 5](https://www.acmicpc.net/problem/11660)|[11660.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/11660.py)|
 |11720|string|문자열|Bronze IV|[숫자의 합](https://www.acmicpc.net/problem/11720)|[11720.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/11720.py)|
 |11724|depth-first search|깊이 우선 탐색|Silver II|[연결 요소의 개수](https://www.acmicpc.net/problem/11724)|[11724.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/11724.py)|
+|11725|depth-first search|깊이 우선 탐색|Silver II|[트리의 부모 찾기](https://www.acmicpc.net/problem/11725)|[11725.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/11725.py)|
 |11866|queue|큐|Silver V|[요세푸스 문제 0](https://www.acmicpc.net/problem/11866)|[11866.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/11866.py)|
 |12015|longest increasing sequence in o(n log n)|가장 긴 증가하는 부분 수열: O(n log n)|Gold II|[가장 긴 증가하는 부분 수열 2](https://www.acmicpc.net/problem/12015)|[12015.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/12015.py)|
 |12100|simulation|시뮬레이션|Gold II|[2048 (Easy)](https://www.acmicpc.net/problem/12100)|[12100.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/12100.py)|
@@ -316,6 +317,7 @@
 |19948|string|문자열|Silver III|[음유시인 영재](https://www.acmicpc.net/problem/19948)|[19948.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/19948.py)|
 |20055|simulation|시뮬레이션|Gold V|[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|[20055.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/20055.py)|
 |20915|greedy|그리디 알고리즘|Silver II|[숫자 카드 놀이](https://www.acmicpc.net/problem/20915)|[20915.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/20915.py)|
+|20955|tree|트리|Gold IV|[민서의 응급 수술](https://www.acmicpc.net/problem/20955)|[20955.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/20955.py)|
 |21275|mathematics|수학|Silver II|[폰 호석만](https://www.acmicpc.net/problem/21275)|[21275.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/21275.py)|
 |21314|implementation|구현|Silver II|[민겸 수](https://www.acmicpc.net/problem/21314)|[21314.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/21314.py)|
 |21758|prefix sum|누적 합|Gold V|[꿀 따기](https://www.acmicpc.net/problem/21758)|[21758.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/21758.py)|
