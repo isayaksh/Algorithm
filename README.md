@@ -85,6 +85,7 @@
 |2138|greedy|그리디 알고리즘|Gold V|[전구와 스위치](https://www.acmicpc.net/problem/2138)|[2138.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2138.py)|
 |2143|prefix sum|누적 합|Gold III|[두 배열의 합](https://www.acmicpc.net/problem/2143)|[2143.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2143.py)|
 |2178|graph traversal|그래프 탐색|Silver I|[미로 탐색](https://www.acmicpc.net/problem/2178)|[2178.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2178.py)|
+|2194|graph traversal|그래프 탐색|Gold V|[유닛 이동시키기](https://www.acmicpc.net/problem/2194)|[2194.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2194.py)|
 |2212|sorting|정렬|Gold V|[센서](https://www.acmicpc.net/problem/2212)|[2212.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2212.py)|
 |2224|graph theory|그래프 이론|Gold IV|[명제 증명](https://www.acmicpc.net/problem/2224)|[2224.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2224.py)|
 |2231|bruteforcing|브루트포스 알고리즘|Bronze II|[분해합](https://www.acmicpc.net/problem/2231)|[2231.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2231.py)|
@@ -97,6 +98,7 @@
 |2309|sorting|정렬|Bronze I|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)|[2309.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2309.py)|
 |2343|parametric search|매개 변수 탐색|Silver I|[기타 레슨](https://www.acmicpc.net/problem/2343)|[2343.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2343.py)|
 |2346|deque|덱|Silver III|[풍선 터뜨리기](https://www.acmicpc.net/problem/2346)|[2346.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2346.py)|
+|2435|prefix sum|누적 합|Bronze I|[기상청 인턴 신현수](https://www.acmicpc.net/problem/2435)|[2435.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2435.py)|
 |2436|number theory|정수론|Gold V|[공약수](https://www.acmicpc.net/problem/2436)|[2436.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2436.py)|
 |2437|sorting|정렬|Gold II|[저울](https://www.acmicpc.net/problem/2437)|[2437.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2437.py)|
 |2467|two-pointer|두 포인터|Gold V|[용액](https://www.acmicpc.net/problem/2467)|[2467.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2467.py)|
