@@ -302,6 +302,7 @@
 |17472|minimum spanning tree|최소 스패닝 트리|Gold I|[다리 만들기 2](https://www.acmicpc.net/problem/17472)|[17472.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17472.py)|
 |17484|dynamic programming|다이나믹 프로그래밍|Silver III|[진우의 달 여행 (Small)](https://www.acmicpc.net/problem/17484)|[17484.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17484.py)|
 |17521|greedy|그리디 알고리즘|Silver IV|[Byte Coin](https://www.acmicpc.net/problem/17521)|[17521.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17521.py)|
+|17626|dynamic programming|다이나믹 프로그래밍|Silver III|[Four Squares](https://www.acmicpc.net/problem/17626)|[17626.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17626.py)|
 |17822|simulation|시뮬레이션|Gold II|[원판 돌리기](https://www.acmicpc.net/problem/17822)|[17822.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17822.py)|
 |17828|string|문자열|Gold V|[문자열 화폐](https://www.acmicpc.net/problem/17828)|[17828.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17828.py)|
 |18114|sorting|정렬|Gold V|[블랙 프라이데이](https://www.acmicpc.net/problem/18114)|[18114.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/18114.py)|
