@@ -22,15 +22,10 @@ def get_problem_info(problemId):
     headers = {'Content-Type': 'application/json', 'charset': 'UTF-8', 'Accept': '*/*'}
     param = {'problemId': problemId}
     try:
-        print(f"param : {param}")
         response = requests.get(url, headers=headers, params=param)
-        print("success1")
-        print(response.text)
         json_object = json.loads(response.text)
-        print("success2")
         title = json_object['titleKo']
         level = json_object['level']
-        print("success3")
         for obj in json_object["tags"]:
             for ob in obj['displayNames']:
                 if ob['language'] == 'ko':
@@ -45,19 +40,19 @@ def get_problem_info(problemId):
 
 def updateAll():
     #remote
-    file_list = listdir("/home/runner/work/Algorithm/Algorithm/BaekJoon");
+    # file_list = listdir("/home/runner/work/Algorithm/Algorithm/BaekJoon");
 
     # local
-    # file_list = listdir("/Users/ksh/Documents/GitHub/Algorithm/BaekJoon")
+    file_list = listdir("/Users/ksh/Documents/GitHub/Algorithm/BaekJoon")
 
     file_list = list(map(lambda x : x.replace('.py', ''), file_list))
     file_list.sort(key=lambda x : int(x))
 
     # remote
-    f = open('/home/runner/work/Algorithm/Algorithm/README.md', 'w', encoding='utf8')
+    # f = open('/home/runner/work/Algorithm/Algorithm/README.md', 'w', encoding='utf8')
 
     # local
-    # f = open('/Users/ksh/Documents/GitHub/Algorithm/README.md', 'w', encoding='utf8')
+    f = open('/Users/ksh/Documents/GitHub/Algorithm/README.md', 'w', encoding='utf8')
 
     f.write(README_HEADER)
     for problemId in file_list:
