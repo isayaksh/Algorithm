@@ -26,6 +26,7 @@ def get_problem_info(problemId):
         json_object = json.loads(response.text)
         title = json_object['titleKo']
         level = json_object['level']
+        print(f'{title}[{level}]')
         for obj in json_object["tags"]:
             for ob in obj['displayNames']:
                 if ob['language'] == 'ko':
