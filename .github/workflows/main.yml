@@ -28,6 +28,9 @@ jobs:
 
       - name: Check Path
         run: pwd
+      
+      - name: Check files
+        run: ls
         
       - name: Run Update Readme Python Script
         run: python updateReadme.py
