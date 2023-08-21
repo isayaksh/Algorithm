@@ -22,11 +22,12 @@ def get_problem_info(problemId):
     headers = {'Content-Type': 'application/json', 'charset': 'UTF-8', 'Accept': '*/*'}
     param = {'problemId': problemId}
     try:
+        print(f"param : {param}")
         response = requests.get(url, headers=headers, params=param)
+        print("success")
         json_object = json.loads(response.text)
         title = json_object['titleKo']
         level = json_object['level']
-        print(f'{title}[{level}]')
         for obj in json_object["tags"]:
             for ob in obj['displayNames']:
                 if ob['language'] == 'ko':
