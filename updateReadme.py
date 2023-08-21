@@ -24,8 +24,9 @@ def get_problem_info(problemId):
     try:
         print(f"param : {param}")
         response = requests.get(url, headers=headers, params=param)
-        print("success")
+        print("success1")
         json_object = json.loads(response.text)
+        print("success2")
         title = json_object['titleKo']
         level = json_object['level']
         for obj in json_object["tags"]:
