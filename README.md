@@ -275,6 +275,7 @@
 |15918|backtracking|백트래킹|Gold V|[랭퍼든 수열쟁이야!!](https://www.acmicpc.net/problem/15918)|[15918.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15918.py)|
 |16139|prefix sum|누적 합|Silver I|[인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139)|[16139.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16139.py)|
 |16168|graph traversal|그래프 탐색|Gold IV|[퍼레이드](https://www.acmicpc.net/problem/16168)|[16168.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16168.py)|
+|16174|graph traversal|그래프 탐색|Silver I|[점프왕 쩰리 (Large)](https://www.acmicpc.net/problem/16174)|[16174.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16174.py)|
 |16195|dynamic programming|다이나믹 프로그래밍|Silver I|[1, 2, 3 더하기 9](https://www.acmicpc.net/problem/16195)|[16195.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16195.py)|
 |16198|bruteforcing|브루트포스 알고리즘|Silver I|[에너지 모으기](https://www.acmicpc.net/problem/16198)|[16198.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16198.py)|
 |16208|sorting|정렬|Silver V|[귀찮음](https://www.acmicpc.net/problem/16208)|[16208.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/16208.py)|
