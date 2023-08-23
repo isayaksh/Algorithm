@@ -15,10 +15,10 @@ def solution(N, M, location):
         return True
 
     start, end = 0, N
-    while start < end:
+    while start <= end:
         mid = (start + end) // 2
         if possibleLightRange(mid):
-            end = mid
+            end = mid-1
             answer = mid
         else:
             start = mid+1
