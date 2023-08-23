@@ -238,7 +238,7 @@
 |13418|minimum spanning tree|최소 스패닝 트리|Gold III|[학교 탐방하기](https://www.acmicpc.net/problem/13418)|[13418.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13418.py)|
 |13460|simulation|시뮬레이션|Gold I|[구슬 탈출 2](https://www.acmicpc.net/problem/13460)|[13460.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13460.py)|
 |13549|graph traversal|그래프 탐색|Gold V|[숨바꼭질 3](https://www.acmicpc.net/problem/13549)|[13549.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13549.py)|
-|13702|binary search|이분 탐색|Silver III|[이상한 술집](https://www.acmicpc.net/problem/13702)|[13702.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13702.py)|
+|13702|parametric search|매개 변수 탐색|Silver III|[이상한 술집](https://www.acmicpc.net/problem/13702)|[13702.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13702.py)|
 |13904|sorting|정렬|Gold III|[과제](https://www.acmicpc.net/problem/13904)|[13904.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13904.py)|
 |13913|graph traversal|그래프 탐색|Gold IV|[숨바꼭질 4](https://www.acmicpc.net/problem/13913)|[13913.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13913.py)|
 |13975|priority queue|우선순위 큐|Gold IV|[파일 합치기 3](https://www.acmicpc.net/problem/13975)|[13975.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/13975.py)|
@@ -299,6 +299,7 @@
 |17144|simulation|시뮬레이션|Gold IV|[미세먼지 안녕!](https://www.acmicpc.net/problem/17144)|[17144.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17144.py)|
 |17175|dynamic programming|다이나믹 프로그래밍|Silver III|[피보나치는 지겨웡~](https://www.acmicpc.net/problem/17175)|[17175.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17175.py)|
 |17212|dynamic programming|다이나믹 프로그래밍|Silver III|[달나라 토끼를 위한 구매대금 지불 도우미](https://www.acmicpc.net/problem/17212)|[17212.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17212.py)|
+|17266|sweeping|스위핑|Silver IV|[어두운 굴다리](https://www.acmicpc.net/problem/17266)|[17266.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17266.py)|
 |17406|implementation|구현|Gold IV|[배열 돌리기 4](https://www.acmicpc.net/problem/17406)|[17406.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17406.py)|
 |17471|mathematics|수학|Gold IV|[게리맨더링](https://www.acmicpc.net/problem/17471)|[17471.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17471.py)|
 |17472|minimum spanning tree|최소 스패닝 트리|Gold I|[다리 만들기 2](https://www.acmicpc.net/problem/17472)|[17472.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/17472.py)|
