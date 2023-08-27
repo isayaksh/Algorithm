@@ -100,6 +100,7 @@
 |2309|sorting|정렬|Bronze I|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)|[2309.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2309.py)|
 |2343|parametric search|매개 변수 탐색|Silver I|[기타 레슨](https://www.acmicpc.net/problem/2343)|[2343.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2343.py)|
 |2346|deque|덱|Silver III|[풍선 터뜨리기](https://www.acmicpc.net/problem/2346)|[2346.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2346.py)|
+|2422|bruteforcing|브루트포스 알고리즘|Silver IV|[한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422)|[2422.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2422.py)|
 |2435|prefix sum|누적 합|Bronze I|[기상청 인턴 신현수](https://www.acmicpc.net/problem/2435)|[2435.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2435.py)|
 |2436|number theory|정수론|Gold V|[공약수](https://www.acmicpc.net/problem/2436)|[2436.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2436.py)|
 |2437|sorting|정렬|Gold II|[저울](https://www.acmicpc.net/problem/2437)|[2437.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2437.py)|
@@ -140,6 +141,7 @@
 |3190|simulation|시뮬레이션|Gold IV|[뱀](https://www.acmicpc.net/problem/3190)|[3190.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/3190.py)|
 |3273|two-pointer|두 포인터|Silver III|[두 수의 합](https://www.acmicpc.net/problem/3273)|[3273.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/3273.py)|
 |3687|greedy|그리디 알고리즘|Gold II|[성냥개비](https://www.acmicpc.net/problem/3687)|[3687.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/3687.py)|
+|3980|bruteforcing|브루트포스 알고리즘|Gold V|[선발 명단](https://www.acmicpc.net/problem/3980)|[3980.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/3980.py)|
 |3986|stack|스택|Silver IV|[좋은 단어](https://www.acmicpc.net/problem/3986)|[3986.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/3986.py)|
 |4179|graph traversal|그래프 탐색|Gold IV|[불!](https://www.acmicpc.net/problem/4179)|[4179.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/4179.py)|
 |4358|set / map by trees|트리를 사용한 집합과 맵|Silver II|[생태학](https://www.acmicpc.net/problem/4358)|[4358.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/4358.py)|
