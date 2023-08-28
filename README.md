@@ -263,6 +263,7 @@
 |14890|implementation|구현|Gold III|[경사로](https://www.acmicpc.net/problem/14890)|[14890.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/14890.py)|
 |14891|simulation|시뮬레이션|Gold V|[톱니바퀴](https://www.acmicpc.net/problem/14891)|[14891.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/14891.py)|
 |14916|mathematics|수학|Silver V|[거스름돈](https://www.acmicpc.net/problem/14916)|[14916.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/14916.py)|
+|14921|two-pointer|두 포인터|Gold V|[용액 합성하기](https://www.acmicpc.net/problem/14921)|[14921.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/14921.py)|
 |15654|backtracking|백트래킹|Silver III|[N과 M (5)](https://www.acmicpc.net/problem/15654)|[15654.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15654.py)|
 |15656|backtracking|백트래킹|Silver III|[N과 M (7)](https://www.acmicpc.net/problem/15656)|[15656.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15656.py)|
 |15662|simulation|시뮬레이션|Gold V|[톱니바퀴 (2)](https://www.acmicpc.net/problem/15662)|[15662.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/15662.py)|
