@@ -121,6 +121,7 @@
 |2661|backtracking|백트래킹|Gold IV|[좋은수열](https://www.acmicpc.net/problem/2661)|[2661.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2661.py)|
 |2667|graph traversal|그래프 탐색|Silver I|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|[2667.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2667.py)|
 |2671|string|문자열|Gold V|[잠수함식별](https://www.acmicpc.net/problem/2671)|[2671.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2671.py)|
+|2744|string|문자열|Bronze V|[대소문자 바꾸기](https://www.acmicpc.net/problem/2744)|[2744.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2744.py)|
 |2748|mathematics|수학|Bronze I|[피보나치 수 2](https://www.acmicpc.net/problem/2748)|[2748.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2748.py)|
 |2775|mathematics|수학|Bronze I|[부녀회장이 될테야](https://www.acmicpc.net/problem/2775)|[2775.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2775.py)|
 |2776|sorting|정렬|Silver IV|[암기왕](https://www.acmicpc.net/problem/2776)|[2776.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/2776.py)|
@@ -183,6 +184,7 @@
 |9461|mathematics|수학|Silver III|[파도반 수열](https://www.acmicpc.net/problem/9461)|[9461.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9461.py)|
 |9536|string|문자열|Silver III|[여우는 어떻게 울지?](https://www.acmicpc.net/problem/9536)|[9536.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9536.py)|
 |9576|greedy|그리디 알고리즘|Gold II|[책 나눠주기](https://www.acmicpc.net/problem/9576)|[9576.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9576.py)|
+|9613|number theory|정수론|Silver IV|[GCD 합](https://www.acmicpc.net/problem/9613)|[9613.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9613.py)|
 |9655|mathematics|수학|Silver V|[돌 게임](https://www.acmicpc.net/problem/9655)|[9655.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9655.py)|
 |9663|bruteforcing|브루트포스 알고리즘|Gold IV|[N-Queen](https://www.acmicpc.net/problem/9663)|[9663.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9663.py)|
 |9935|string|문자열|Gold IV|[문자열 폭발](https://www.acmicpc.net/problem/9935)|[9935.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9935.py)|
@@ -343,6 +345,7 @@
 |20955|tree|트리|Gold IV|[민서의 응급 수술](https://www.acmicpc.net/problem/20955)|[20955.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/20955.py)|
 |21275|mathematics|수학|Silver II|[폰 호석만](https://www.acmicpc.net/problem/21275)|[21275.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/21275.py)|
 |21314|implementation|구현|Silver II|[민겸 수](https://www.acmicpc.net/problem/21314)|[21314.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/21314.py)|
+|21317|dynamic programming|다이나믹 프로그래밍|Silver I|[징검다리 건너기](https://www.acmicpc.net/problem/21317)|[21317.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/21317.py)|
 |21758|prefix sum|누적 합|Gold V|[꿀 따기](https://www.acmicpc.net/problem/21758)|[21758.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/21758.py)|
 |21919|sieve of eratosthenes|에라토스테네스의 체|Silver III|[소수 최소 공배수](https://www.acmicpc.net/problem/21919)|[21919.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/21919.py)|
 |21920|number theory|정수론|Silver IV|[서로소 평균](https://www.acmicpc.net/problem/21920)|[21920.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/21920.py)|
