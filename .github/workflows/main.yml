@@ -31,9 +31,20 @@ jobs:
       
       - name: Check files
         run: ls
+      
+      - name: Check Commit Messages
+        id: parse_commit
+        run: |
+          for commit in ${{ github.event.commits }}; do
+            message=$(echo "$commit" | jq -r '.message')
+            if [[ $message =~ \[BOJ\] ([0-9]+) ]]; then
+              issue_number="${BASH_REMATCH[1]}"
+              echo "Found issue number: $issue_number"
+            fi
+          done
         
-      - name: Run Update Readme Python Script
-        run: python updateReadme.py
+      # - name: Run Update Readme Python Script
+      #   run: python updateReadme.py
 
       - name: Run Update README.md File
         run: |

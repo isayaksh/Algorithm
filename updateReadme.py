@@ -23,8 +23,6 @@ def get_problem_info(problemId):
     param = {'problemId': problemId}
     try:
         response = requests.get(url, headers=headers, params=param)
-        print(response)
-        print(response.content)
         json_object = json.loads(response.text)
         title = json_object['titleKo']
         level = json_object['level']
@@ -40,21 +38,15 @@ def get_problem_info(problemId):
         print(f"[updateReadme.get_problem_info][ERROR] : [{problemId}] {ex.with_traceback}")
 
 
-def updateAll():
-    #remote
-    file_list = listdir("/home/runner/work/Algorithm/Algorithm/BaekJoon");
-
+def updateAllLocal():
     # local
-    # file_list = listdir("/Users/ksh/Documents/GitHub/Algorithm/BaekJoon")
+    file_list = listdir("/Users/ksh/Documents/GitHub/Algorithm/BaekJoon")
 
     file_list = list(map(lambda x : x.replace('.py', ''), file_list))
     file_list.sort(key=lambda x : int(x))
 
-    # remote
-    f = open('/home/runner/work/Algorithm/Algorithm/README.md', 'w', encoding='utf8')
-
     # local
-    # f = open('/Users/ksh/Documents/GitHub/Algorithm/README.md', 'w', encoding='utf8')
+    f = open('/Users/ksh/Documents/GitHub/Algorithm/README.md', 'w', encoding='utf8')
 
     f.write(README_HEADER)
     for problemId in file_list:
@@ -63,4 +55,23 @@ def updateAll():
             f.write(data)
     f.close()
 
-updateAll()
+def updateAllRemote():
+    #remote
+    file_list = listdir("/home/runner/work/Algorithm/Algorithm/BaekJoon");
+
+    file_list = list(map(lambda x : x.replace('.py', ''), file_list))
+    file_list.sort(key=lambda x : int(x))
+
+    # remote
+    f = open('/home/runner/work/Algorithm/Algorithm/README.md', 'w', encoding='utf8')
+
+    f.write(README_HEADER)
+    for problemId in file_list:
+        data = get_problem_info(problemId)
+        if data != None:
+            f.write(data)
+    f.close()
+
+updateAllLocal()
+
+# updateAllRemote()
