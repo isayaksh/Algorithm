@@ -76,8 +76,10 @@ def updateAllRemote():
 def testFunction(problemId):
     print(f"success test: {problemId}")
 
+print(sys.argv[0])
+print(sys.argv[1])
+problemId = sys.argv[0]
 
-problemId = sys.argv[1]
 testFunction(problemId)
 
 # updateAllLocal()
