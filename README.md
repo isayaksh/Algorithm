@@ -177,6 +177,7 @@
 |9084|knapsack|배낭 문제|Gold V|[동전](https://www.acmicpc.net/problem/9084)|[9084.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9084.py)|
 |9094|mathematics|수학|Bronze III|[수학적 호기심](https://www.acmicpc.net/problem/9094)|[9094.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9094.py)|
 |9205|graph traversal|그래프 탐색|Gold V|[맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)|[9205.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9205.py)|
+|9242|string|문자열|Silver IV|[폭탄 해체](https://www.acmicpc.net/problem/9242)|[9242.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9242.py)|
 |9251|string|문자열|Gold V|[LCS](https://www.acmicpc.net/problem/9251)|[9251.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9251.py)|
 |9375|mathematics|수학|Silver III|[패션왕 신해빈](https://www.acmicpc.net/problem/9375)|[9375.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9375.py)|
 |9421|sieve of eratosthenes|에라토스테네스의 체|Silver I|[소수상근수](https://www.acmicpc.net/problem/9421)|[9421.py](https://github.com/isayaksh/Algorithm/blob/main/BaekJoon/9421.py)|
