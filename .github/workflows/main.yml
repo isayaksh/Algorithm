@@ -35,7 +35,7 @@ jobs:
       - name: Check Commit Messages
         id: parse_commit
         run: |
-          for commit in ${{ github.event.commits }}; do
+          for commit in ${{ github.event.head_commit.message }}; do
             message=$(echo "$commit" | jq -r '.message')
             if [[ $message =~ \[BOJ\] ([0-9]+) ]]; then
               issue_number="${BASH_REMATCH[1]}"
