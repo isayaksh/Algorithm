@@ -46,7 +46,7 @@ jobs:
           echo ${PROBLEM_ID}
         
       - name: Run Update Readme Python Script
-        run: python updateReadme.py $PROBLEM_ID
+        run: python updateReadme.py 1111
 
       - name: Run Update README.md File
         run: |
