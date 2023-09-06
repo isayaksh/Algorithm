@@ -37,6 +37,9 @@ jobs:
         run: |
           commit_message="${{ github.event.head_commit.message }}"
           echo "Commit Message: $commit_message"
+
+          IFS=" " read -r -a parts <<< "$commit_message"
+          echo "Problem Number: ${parts[1]}"
         
       # - name: Run Update Readme Python Script
       #   run: python updateReadme.py
