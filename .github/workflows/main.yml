@@ -44,6 +44,8 @@ jobs:
           export PROBLEM_ID=${parts[1]}
 
           echo ${PROBLEM_ID}
+
+          python updateReadme.py ${PROBLEM_ID}
         
       - name: Run Update Readme Python Script
         run: python updateReadme.py ${PROBLEM_ID}
