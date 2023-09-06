@@ -72,8 +72,12 @@ def updateAllRemote():
             f.write(data)
     f.close()
 
-def testFunction():
-    print("success test")
+def testFunction(problemId):
+    print(f"success test: {problemId}")
+
+problemId = environ.get("problemId");
+
+testFunction(problemId)
 
 # updateAllLocal()
 
