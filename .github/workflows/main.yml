@@ -43,7 +43,7 @@ jobs:
 
           export problemId=${parts[1]}
 
-          echo problemId
+          echo ${problemId}
         
       - name: Run Update Readme Python Script
         run: python updateReadme.py
