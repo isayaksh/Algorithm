@@ -1,5 +1,6 @@
 from os import *
 from io import *
+import sys
 import requests
 import json
 
@@ -75,8 +76,8 @@ def updateAllRemote():
 def testFunction(problemId):
     print(f"success test: {problemId}")
 
-problemId = environ.get("problemId");
 
+problemId = sys.argv[1]
 testFunction(problemId)
 
 # updateAllLocal()
