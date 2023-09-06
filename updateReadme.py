@@ -23,6 +23,8 @@ def get_problem_info(problemId):
     param = {'problemId': problemId}
     try:
         response = requests.get(url, headers=headers, params=param)
+        print(response)
+        print(response.content)
         json_object = json.loads(response.text)
         title = json_object['titleKo']
         level = json_object['level']
