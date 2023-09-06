@@ -40,7 +40,8 @@ jobs:
 
           IFS=" " read -r -a parts <<< "$commit_message"
           echo "Problem Number: ${parts[1]}"
-          EXPORT problemId=${parts[1]}
+          
+          export problemId=${parts[1]}
         
       - name: Run Update Readme Python Script
         run: python updateReadme.py
