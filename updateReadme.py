@@ -72,6 +72,9 @@ def updateAllRemote():
             f.write(data)
     f.close()
 
-updateAllLocal()
+def testFunction():
+    print("success test")
+
+# updateAllLocal()
 
 # updateAllRemote()
